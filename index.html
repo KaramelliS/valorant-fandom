@@ -149,9 +149,12 @@
       renderStats(agents);
       grid.innerHTML = agents.map(function(a) {
         return '<div class="card" onclick="showAgent(\'' + a.name + '\')">' +
-          (a.full_portrait_url ? '<img src="' + a.full_portrait_url + '" alt="' + a.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted)">No img</div>') +
-          '<h3>' + a.name + '</h3>' +
-          '<div class="sub">' + a.role + '</div>' +
+          (a.full_portrait_url ? '<img src="' + a.full_portrait_url + '" alt="' + a.name + '" loading="lazy">' : '<div class="noimg">No img</div>') +
+          '<div style="display:flex;align-items:center;gap:6px">' +
+            (a.bust_icon_url ? '<img src="' + a.bust_icon_url + '" style="width:24px;height:24px;border-radius:50%">' : '') +
+            '<h3>' + a.name + '</h3>' +
+          '</div>' +
+          '<div class="sub">' + (a.role_icon_url ? '<img src="' + a.role_icon_url + '" style="width:14px;height:14px;vertical-align:middle;margin-right:4px">' : '') + a.role + '</div>' +
         '</div>';
       }).join('');
     });
@@ -217,10 +220,10 @@
       detail.innerHTML = '<button class="close" onclick="closeDetail()">x</button>' +
         (a.full_portrait_url ? '<img src="' + a.full_portrait_url + '" alt="' + a.name + '">' : '') +
         '<h2>' + a.name + '</h2>' +
-        '<div class="role">' + a.role + '</div>' +
+        '<div class="role">' + (a.role_icon_url ? '<img src="' + a.role_icon_url + '" style="width:18px;height:18px;vertical-align:middle;margin-right:4px">' : '') + a.role + '</div>' +
         '<p>' + a.description + '</p>' +
         (a.abilities && a.abilities.length ? '<h3 style="margin-bottom:8px;font-size:0.9rem;text-transform:uppercase;letter-spacing:1px;color:var(--muted)">Abilities</h3>' + a.abilities.map(function(ab) {
-          return '<div class="abi"><div class="slot">' + ab.slot + '</div><div class="name">' + ab.name + '</div></div>';
+          return '<div class="abi"><div class="slot">' + ab.slot + '</div><div class="name">' + (ab.icon_url ? '<img src="' + ab.icon_url + '" style="width:20px;height:20px;vertical-align:middle;margin-right:6px">' : '') + ab.name + '</div></div>';
         }).join('') : '') +
         (a.origin ? '<p style="font-size:0.8rem"><strong>Origin:</strong> ' + a.origin + '</p>' : '') +
         (a.release_patch ? '<p style="font-size:0.8rem"><strong>Patch:</strong> ' + a.release_patch + '</p>' : '');
@@ -234,6 +237,7 @@
         (w.image_url ? '<img src="' + w.image_url + '" alt="' + w.name + '">' : '') +
         '<h2>' + w.name + '</h2>' +
         '<div class="role">' + w.category + (w.cost ? ' · ' + w.cost : '') + '</div>' +
+        (w.killfeed_icon_url ? '<div style="margin-bottom:12px"><span style="color:var(--muted);font-size:0.7rem;text-transform:uppercase">Killfeed</span><br><img src="' + w.killfeed_icon_url + '" style="max-height:30px;margin-top:4px"></div>' : '') +
         '<p>' + w.description + '</p>' +
         '<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:0.8rem">' +
           (w.stats.fire_rate ? '<div><span style="color:var(--muted)">Fire Rate</span><br>' + w.stats.fire_rate + '</div>' : '') +

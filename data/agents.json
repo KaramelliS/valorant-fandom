@@ -4,34 +4,40 @@
     "url": "https://valorant.fandom.com/wiki/Astra",
     "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she’s always eons ahead of her enemy’s next move.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202708",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/08/Astra_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180525",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202708",
     "abilities": [
       {
-        "name": "Gravity Well Nova Pulse Nebula/Dissipate",
+        "name": "Gravity Well",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/41/Gravity_Well.png/revision/latest/scale-to-width-down/96?cb=20210302170436"
+      },
+      {
+        "name": "Nova Pulse",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/5/51/Nova_Pulse.png/revision/latest/scale-to-width-down/96?cb=20210302170417"
+      },
+      {
+        "name": "Nebula/Dissipate",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/8b/Nebula_-_Dissipate.png/revision/latest/scale-to-width-down/96?cb=20210302170357"
       },
       {
         "name": "Stars",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3c/Stars.png/revision/latest/scale-to-width-down/96?cb=20230117140927"
       },
       {
         "name": "Cosmic Divide",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Astral Form",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f4/Cosmic_Divide.png/revision/latest/scale-to-width-down/96?cb=20210302170328"
       }
     ],
     "origin": "Accra, Ghana",
@@ -43,28 +49,34 @@
     "url": "https://valorant.fandom.com/wiki/Breach",
     "description": "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Breach_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202713",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/5/53/Breach_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180542",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Breach_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202713",
     "abilities": [
       {
-        "name": "Aftershock Flashpoint",
+        "name": "Aftershock",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/32/Aftershock.png/revision/latest/scale-to-width-down/96?cb=20200405184838"
+      },
+      {
+        "name": "Flashpoint",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f2/Flashpoint.png/revision/latest/scale-to-width-down/96?cb=20200405185608"
       },
       {
         "name": "Fault Line",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Fault_Line.png/revision/latest/scale-to-width-down/96?cb=20200405190047"
       },
       {
         "name": "Rolling Thunder",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7a/Rolling_Thunder.png/revision/latest/scale-to-width-down/96?cb=20200405190227"
       }
     ],
     "origin": "Sweden",
@@ -76,28 +88,34 @@
     "url": "https://valorant.fandom.com/wiki/Brimstone",
     "description": "Joining from the U.S.A., Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Brimstone_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202719",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/4d/Brimstone_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180558",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Brimstone_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202719",
     "abilities": [
       {
-        "name": "Incendiary Stim Beacon",
+        "name": "Incendiary",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/26/Incendiary.png/revision/latest/scale-to-width-down/96?cb=20200405205403"
+      },
+      {
+        "name": "Stim Beacon",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/ad/Stim_Beacon.png/revision/latest/scale-to-width-down/96?cb=20200405205447"
       },
       {
         "name": "Sky Smoke",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/71/Sky_Smoke.png/revision/latest/scale-to-width-down/96?cb=20200405205417"
       },
       {
         "name": "Orbital Strike",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/61/Orbital_Strike.png/revision/latest/scale-to-width-down/96?cb=20200405205426"
       }
     ],
     "origin": "Baltimore, Maryland, United States",
@@ -109,28 +127,34 @@
     "url": "https://valorant.fandom.com/wiki/Chamber",
     "description": "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202725",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180616",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202725",
     "abilities": [
       {
-        "name": "Trademark Headhunter",
+        "name": "Trademark",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3b/Trademark.png/revision/latest/scale-to-width-down/96?cb=20211116151530"
+      },
+      {
+        "name": "Headhunter",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/06/Headhunter.png/revision/latest/scale-to-width-down/96?cb=20211116151539"
       },
       {
         "name": "Rendezvous",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/83/Rendezvous.png/revision/latest/scale-to-width-down/96?cb=20211116151506"
       },
       {
         "name": "Tour De Force",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/eb/Tour_De_Force.png/revision/latest/scale-to-width-down/96?cb=20211116151518"
       }
     ],
     "origin": "France",
@@ -142,28 +166,34 @@
     "url": "https://valorant.fandom.com/wiki/Clove",
     "description": "Scottish troublemaker Clove makes mischief for enemies in both the heat of combat and the cold of death. The young immortal keeps foes guessing, even from beyond the grave, their\nreturn to the living only ever a moment away.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/0b/Clove_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20240326163704",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/3/30/Clove_icon.png/revision/latest/scale-to-width-down/96?cb=20240326163719",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/0b/Clove_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20240326163704",
     "abilities": [
       {
-        "name": "Pick-me-up Meddle",
+        "name": "Pick-me-up",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/5/52/Pick-me-up.png/revision/latest/scale-to-width-down/96?cb=20240326163806"
+      },
+      {
+        "name": "Meddle",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/c2/Meddle.png/revision/latest/scale-to-width-down/96?cb=20240326163740"
       },
       {
         "name": "Ruse",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/63/Ruse.png/revision/latest/scale-to-width-down/96?cb=20240326163808"
       },
       {
         "name": "Not Dead Yet",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/73/Not_Dead_Yet.png/revision/latest/scale-to-width-down/96?cb=20240326163759"
       }
     ],
     "origin": "Edinburgh, Scotland, United Kingdom",
@@ -175,28 +205,34 @@
     "url": "https://valorant.fandom.com/wiki/Cypher",
     "description": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy’s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202731",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/8/88/Cypher_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180623",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202731",
     "abilities": [
       {
-        "name": "Trapwire Cyber Cage",
+        "name": "Trapwire",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/01/Trapwire.png/revision/latest/scale-to-width-down/96?cb=20200405222341"
+      },
+      {
+        "name": "Cyber Cage",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7c/Cyber_Cage.png/revision/latest/scale-to-width-down/96?cb=20200405222332"
       },
       {
         "name": "Spycam",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3f/Spycam.png/revision/latest/scale-to-width-down/96?cb=20200405222325"
       },
       {
         "name": "Neural Theft",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/42/Neural_Theft.png/revision/latest/scale-to-width-down/96?cb=20200405222316"
       }
     ],
     "origin": "Rabat, Morocco",
@@ -208,28 +244,34 @@
     "url": "https://valorant.fandom.com/wiki/Deadlock",
     "description": "Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives her unyielding ferocity.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/a/aa/Deadlock_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20230627132700",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/e/eb/Deadlock_icon.png/revision/latest/scale-to-width-down/96?cb=20230627132804",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/a/aa/Deadlock_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20230627132700",
     "abilities": [
       {
-        "name": "Barrier Mesh Sonic Sensor",
+        "name": "Barrier Mesh",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/ec/Barrier_Mesh.png/revision/latest/scale-to-width-down/96?cb=20230625071902"
+      },
+      {
+        "name": "Sonic Sensor",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/e3/Sonic_Sensor.png/revision/latest/scale-to-width-down/96?cb=20230625071859"
       },
       {
         "name": "GravNet",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/9/9b/GravNet.png/revision/latest/scale-to-width-down/96?cb=20230625071903"
       },
       {
         "name": "Annihilation",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b2/Annihilation.png/revision/latest/scale-to-width-down/96?cb=20230625071900"
       }
     ],
     "origin": "Norway",
@@ -241,34 +283,34 @@
     "url": "https://valorant.fandom.com/wiki/Fade",
     "description": "Turkish bounty hunter Fade unleashes the power of raw nightmare to seize enemy secrets. Attuned with terror itself, she hunts down targets and reveals their deepest fears - before crushing them in the dark.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202738",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/a/a6/Fade_icon.png/revision/latest/scale-to-width-down/96?cb=20230523161332",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202738",
     "abilities": [
       {
-        "name": "Prowler Seize",
+        "name": "Prowler",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/68/Prowler.png/revision/latest/scale-to-width-down/96?cb=20220426222657"
+      },
+      {
+        "name": "Seize",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/1f/Seize.png/revision/latest/scale-to-width-down/96?cb=20220426222708"
       },
       {
         "name": "Haunt",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/37/Haunt.png/revision/latest/scale-to-width-down/96?cb=20220426222713"
       },
       {
         "name": "Nightfall",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Terror Trail",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Nightfall.png/revision/latest/scale-to-width-down/96?cb=20220426222718"
       }
     ],
     "origin": "Istanbul, Türkiye",
@@ -280,34 +322,34 @@
     "url": "https://valorant.fandom.com/wiki/Gekko",
     "description": "Gekko the Angeleno leads a tight-knit crew of calamitous creatures. His buddies bound forward, scattering enemies out of the way, with Gekko chasing them down to regroup and go again.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/a/a4/Gekko_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20230304203025",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/6/66/Gekko_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180641",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/a/a4/Gekko_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20230304203025",
     "abilities": [
       {
-        "name": "Mosh Pit Wingman",
+        "name": "Mosh Pit",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Mosh_Pit.png/revision/latest/scale-to-width-down/96?cb=20230307075658"
+      },
+      {
+        "name": "Wingman",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Wingman.png/revision/latest/scale-to-width-down/96?cb=20230307075701"
       },
       {
         "name": "Dizzy",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/8d/Dizzy.png/revision/latest/scale-to-width-down/96?cb=20230307075659"
       },
       {
         "name": "Thrash",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Globules",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f8/Thrash.png/revision/latest/scale-to-width-down/96?cb=20230307075702"
       }
     ],
     "origin": "Los Angeles, California, United States",
@@ -319,28 +361,34 @@
     "url": "https://valorant.fandom.com/wiki/Harbor",
     "description": "Hailing from India's coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies, or pummel those that oppose him.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Harbor_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20221018133900",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f3/Harbor_icon.png/revision/latest/scale-to-width-down/96?cb=20230523161242",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Harbor_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20221018133900",
     "abilities": [
       {
-        "name": "Storm Surge High Tide",
+        "name": "Storm Surge",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/0a/Storm_Surge.png/revision/latest/scale-to-width-down/96?cb=20251111171504"
+      },
+      {
+        "name": "High Tide",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/4a/High_Tide.png/revision/latest/scale-to-width-down/96?cb=20251111171432"
       },
       {
         "name": "Cove",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/ab/Cove.png/revision/latest/scale-to-width-down/96?cb=20251111171416"
       },
       {
         "name": "Reckoning",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/20/Reckoning.png/revision/latest/scale-to-width-down/96?cb=20251111171447"
       }
     ],
     "origin": "India",
@@ -352,28 +400,34 @@
     "url": "https://valorant.fandom.com/wiki/Iso",
     "description": "Chinese fixer for hire Iso goes into a flow state to dismantle the opposition. Reconfiguring ambient energy into bulletproof protection, he advances with focus towards his next duel to the death.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Iso_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20231031131018",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Iso_icon.png/revision/latest/scale-to-width-down/96?cb=20231031131018",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Iso_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20231031131018",
     "abilities": [
       {
-        "name": "Contingency Undercut",
+        "name": "Contingency",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/Contingency.png/revision/latest/scale-to-width-down/96?cb=20231031130634"
+      },
+      {
+        "name": "Undercut",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/84/Undercut.png/revision/latest/scale-to-width-down/96?cb=20231031130623"
       },
       {
         "name": "Double Tap",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7c/Double_Tap.png/revision/latest/scale-to-width-down/96?cb=20231031130645"
       },
       {
         "name": "Kill Contract",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/6a/Kill_Contract.png/revision/latest/scale-to-width-down/96?cb=20231031130658"
       }
     ],
     "origin": "Chongqing, China",
@@ -385,34 +439,34 @@
     "url": "https://valorant.fandom.com/wiki/Jett",
     "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202742",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png/revision/latest/scale-to-width-down/96?cb=20230909031447",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202742",
     "abilities": [
       {
-        "name": "Cloudburst Updraft",
+        "name": "Cloudburst",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b9/Cloudburst.png/revision/latest/scale-to-width-down/96?cb=20200405215200"
+      },
+      {
+        "name": "Updraft",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/d/dc/Updraft.png/revision/latest/scale-to-width-down/96?cb=20200405215211"
       },
       {
         "name": "Tailwind",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/bc/Tailwind.png/revision/latest/scale-to-width-down/96?cb=20200405215218"
       },
       {
         "name": "Blade Storm",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Drift",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/06/Blade_Storm.png/revision/latest/scale-to-width-down/96?cb=20200405215226"
       }
     ],
     "origin": "Seoul, South Korea",
@@ -424,28 +478,34 @@
     "url": "https://valorant.fandom.com/wiki/KAYO",
     "description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to suppress enemy abilities dismantles his opponents' capacity to fight back, securing him and his allies the ultimate edge.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202747",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f0/KAYO_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180711",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202747",
     "abilities": [
       {
-        "name": "FRAG/ment FLASH/drive",
+        "name": "FRAG/ment",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/46/FRAG-ment.png/revision/latest/scale-to-width-down/96?cb=20210617182119"
+      },
+      {
+        "name": "FLASH/drive",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/13/FLASH-drive.png/revision/latest/scale-to-width-down/96?cb=20210617182254"
       },
       {
         "name": "ZERO/point",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/2a/ZERO-point.png/revision/latest/scale-to-width-down/96?cb=20210617182312"
       },
       {
         "name": "NULL/cmd",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/8a/NULL-cmd.png/revision/latest/scale-to-width-down/96?cb=20210617182330"
       }
     ],
     "origin": "Alternate Timeline Earth",
@@ -457,28 +517,34 @@
     "url": "https://valorant.fandom.com/wiki/Killjoy",
     "description": "The genius of Germany, Killjoy effortlessly secures key battlefield positions with her arsenal of inventions. If their damage doesn't take her enemies out, the debuff her robots provide will make short work of them.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Killjoy_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202751",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/1/15/Killjoy_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180727",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Killjoy_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202751",
     "abilities": [
       {
-        "name": "Alarmbot Nanoswarm",
+        "name": "Alarmbot",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/d/d9/Alarmbot.png/revision/latest/scale-to-width-down/96?cb=20200804132222"
+      },
+      {
+        "name": "Nanoswarm",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/4d/Nanoswarm.png/revision/latest/scale-to-width-down/96?cb=20200804132242"
       },
       {
         "name": "Turret",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/32/Turret.png/revision/latest/scale-to-width-down/96?cb=20200804132303"
       },
       {
         "name": "Lockdown",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7c/Lockdown.png/revision/latest/scale-to-width-down/96?cb=20200804132315"
       }
     ],
     "origin": "Germany",
@@ -490,28 +556,34 @@
     "url": "https://valorant.fandom.com/wiki/Miks",
     "description": "Straight from Croatia, Miks takes the stage channeling pure sound energy. With his infectious passion\nand sonic powers, he rallies his squad to move as one as they set the tempo on the battlefield together.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Miks_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20260512181533",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/5/56/Miks_icon.png/revision/latest/scale-to-width-down/96?cb=20260317165334",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Miks_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20260512181533",
     "abilities": [
       {
-        "name": "M-pulse Harmonize",
+        "name": "M-pulse",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/29/M-pulse.png/revision/latest/scale-to-width-down/96?cb=20260317165111"
+      },
+      {
+        "name": "Harmonize",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/4b/Harmonize.png/revision/latest/scale-to-width-down/96?cb=20260317165108"
       },
       {
         "name": "Waveform",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/9/9c/Waveform.png/revision/latest/scale-to-width-down/96?cb=20260317165115"
       },
       {
         "name": "Bassquake",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/d/d2/Bassquake.png/revision/latest/scale-to-width-down/96?cb=20260317165103"
       }
     ],
     "origin": "Croatia",
@@ -523,34 +595,34 @@
     "url": "https://valorant.fandom.com/wiki/Neon",
     "description": "Filipino Agent, Neon, surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard, then strikes them down quicker than lightning.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202800",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/d/d0/Neon_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180744",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202800",
     "abilities": [
       {
-        "name": "Fast Lane Relay Bolt",
+        "name": "Fast Lane",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/e7/Fast_Lane.png/revision/latest/scale-to-width-down/96?cb=20220107183348"
+      },
+      {
+        "name": "Relay Bolt",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/ac/Relay_Bolt.png/revision/latest/scale-to-width-down/96?cb=20220107183420"
       },
       {
         "name": "High Gear",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/High_Gear.png/revision/latest/scale-to-width-down/96?cb=20220107183445"
       },
       {
         "name": "Overdrive",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Energy",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/ab/Overdrive.png/revision/latest/scale-to-width-down/96?cb=20240621122144"
       }
     ],
     "origin": "Manila, Philippines",
@@ -562,28 +634,34 @@
     "url": "https://valorant.fandom.com/wiki/Omen",
     "description": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202807",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180801",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202807",
     "abilities": [
       {
-        "name": "Shrouded Step Paranoia",
+        "name": "Shrouded Step",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/80/Shrouded_Step.png/revision/latest/scale-to-width-down/96?cb=20200405212629"
+      },
+      {
+        "name": "Paranoia",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/8d/Paranoia.png/revision/latest/scale-to-width-down/96?cb=20200405212616"
       },
       {
         "name": "Dark Cover",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/2c/Dark_Cover.png/revision/latest/scale-to-width-down/96?cb=20200405212635"
       },
       {
         "name": "From the Shadows",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/From_the_Shadows.png/revision/latest/scale-to-width-down/96?cb=20200405212650"
       }
     ],
     "origin": "Alpha Earth",
@@ -595,34 +673,34 @@
     "url": "https://valorant.fandom.com/wiki/Phoenix",
     "description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Phoenix_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202811",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/1/14/Phoenix_icon.png/revision/latest/scale-to-width-down/96?cb=20230606161016",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Phoenix_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202811",
     "abilities": [
       {
-        "name": "Blaze Hot Hands",
+        "name": "Blaze",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/bd/Blaze.png/revision/latest/scale-to-width-down/96?cb=20200406002639"
+      },
+      {
+        "name": "Hot Hands",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/75/Hot_Hands.png/revision/latest/scale-to-width-down/96?cb=20200406002627"
       },
       {
         "name": "Curveball",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/30/Curveball.png/revision/latest/scale-to-width-down/96?cb=20200405193829"
       },
       {
         "name": "Run it Back",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Heating Up",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/Run_it_Back.png/revision/latest/scale-to-width-down/96?cb=20200406002648"
       }
     ],
     "origin": "London, England, United Kingdom",
@@ -634,28 +712,34 @@
     "url": "https://valorant.fandom.com/wiki/Raze",
     "description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom.”",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202815",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180834",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202815",
     "abilities": [
       {
-        "name": "Boom Bot Blast Pack",
+        "name": "Boom Bot",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/ff/Boom_Bot.png/revision/latest/scale-to-width-down/96?cb=20240621122232"
+      },
+      {
+        "name": "Blast Pack",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/e1/Blast_Pack.png/revision/latest/scale-to-width-down/96?cb=20200422114117"
       },
       {
         "name": "Paint Shells",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/30/Paint_Shells.png/revision/latest/scale-to-width-down/96?cb=20240621122252"
       },
       {
         "name": "Showstopper",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/18/Showstopper.png/revision/latest/scale-to-width-down/96?cb=20240621122241"
       }
     ],
     "origin": "Salvador, Bahia, Brazil",
@@ -667,34 +751,34 @@
     "url": "https://valorant.fandom.com/wiki/Reyna",
     "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202820",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Reyna_icon.png/revision/latest/scale-to-width-down/96?cb=20230606161102",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202820",
     "abilities": [
       {
         "name": "Leer",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3e/Leer.png/revision/latest/scale-to-width-down/96?cb=20200802072434"
       },
       {
-        "name": "Devour Dismiss",
+        "name": "Devour",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3d/Devour.png/revision/latest/scale-to-width-down/96?cb=20200802072627"
+      },
+      {
+        "name": "Dismiss",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/0/0a/Dismiss.png/revision/latest/scale-to-width-down/96?cb=20200802072650"
       },
       {
         "name": "Empress",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Soul Harvest",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/12/Empress.png/revision/latest/scale-to-width-down/96?cb=20200802072724"
       }
     ],
     "origin": "Mexico",
@@ -706,28 +790,34 @@
     "url": "https://valorant.fandom.com/wiki/Sage",
     "description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20260317170220",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/74/Sage_icon.png/revision/latest/scale-to-width-down/96?cb=20260317170200",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20260317170220",
     "abilities": [
       {
-        "name": "Barrier Orb Slow Orb",
+        "name": "Barrier Orb",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/10/Barrier_Orb.png/revision/latest/scale-to-width-down/96?cb=20200405203507"
+      },
+      {
+        "name": "Slow Orb",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/bb/Slow_Orb.png/revision/latest/scale-to-width-down/96?cb=20200405203400"
       },
       {
         "name": "Healing Orb",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/ea/Healing_Orb.png/revision/latest/scale-to-width-down/96?cb=20200405203710"
       },
       {
         "name": "Resurrection",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/e/e1/Resurrection.png/revision/latest/scale-to-width-down/96?cb=20200405203707"
       }
     ],
     "origin": "China",
@@ -739,28 +829,34 @@
     "url": "https://valorant.fandom.com/wiki/Skye",
     "description": "Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202828",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/3/33/Skye_icon.png/revision/latest/scale-to-width-down/96?cb=20230606161546",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202828",
     "abilities": [
       {
-        "name": "Regrowth Trailblazer",
+        "name": "Regrowth",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/4/47/Regrowth.png/revision/latest/scale-to-width-down/96?cb=20230914141312"
+      },
+      {
+        "name": "Trailblazer",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/89/Trailblazer.png/revision/latest/scale-to-width-down/96?cb=20230914141305"
       },
       {
         "name": "Guiding Light",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/37/Guiding_Light.png/revision/latest/scale-to-width-down/96?cb=20230914141259"
       },
       {
         "name": "Seekers",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/a9/Seekers.png/revision/latest/scale-to-width-down/96?cb=20230914141239"
       }
     ],
     "origin": "Nimbin, New South Wales, Australia",
@@ -772,28 +868,34 @@
     "url": "https://valorant.fandom.com/wiki/Sova",
     "description": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/c/c5/Sova_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202832",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/49/Sova_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180933",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/c/c5/Sova_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202832",
     "abilities": [
       {
-        "name": "Owl Drone Shock Bolt",
+        "name": "Owl Drone",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/1d/Owl_Drone.png/revision/latest/scale-to-width-down/96?cb=20200405225244"
+      },
+      {
+        "name": "Shock Bolt",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fe/Shock_Bolt.png/revision/latest/scale-to-width-down/96?cb=20200405225254"
       },
       {
         "name": "Recon Bolt",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/39/Recon_Bolt.png/revision/latest/scale-to-width-down/96?cb=20200405225305"
       },
       {
         "name": "Hunter's Fury",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Hunter%27s_Fury.png/revision/latest/scale-to-width-down/96?cb=20200803160706"
       }
     ],
     "origin": "Severomorsk, Murmansk Oblast, Russia",
@@ -805,28 +907,34 @@
     "url": "https://valorant.fandom.com/wiki/Tejo",
     "description": "A veteran intelligence consultant from Colombia, Tejo’s ballistic guidance system pressures the enemy to relinquish their ground - or their lives. His targeted strikes keep opponents off balance and under his heel.",
     "role": "Initiator",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043926",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/c/cc/Tejo_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20250107192526",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Tejo_icon.png/revision/latest/scale-to-width-down/96?cb=20250107192428",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/c/cc/Tejo_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20250107192526",
     "abilities": [
       {
-        "name": "Stealth Drone Special Delivery",
+        "name": "Stealth Drone",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Stealth_Drone.png/revision/latest/scale-to-width-down/96?cb=20250107192244"
+      },
+      {
+        "name": "Special Delivery",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/d/db/Special_Delivery.png/revision/latest/scale-to-width-down/96?cb=20250107192243"
       },
       {
         "name": "Guided Salvo",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/9/9e/Guided_Salvo.png/revision/latest/scale-to-width-down/96?cb=20250107192242"
       },
       {
         "name": "Armageddon",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/63/Armageddon.png/revision/latest/scale-to-width-down/96?cb=20250107192242"
       }
     ],
     "origin": "Colombia",
@@ -838,28 +946,34 @@
     "url": "https://valorant.fandom.com/wiki/Veto",
     "description": "Empowered by an unstoppable DNA mutation, Senegalese enforcer Veto defies the rules of engagement by nullifying his opponent's powers and technology. On Veto's battlefield, gunplay is your only guarantee.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/04/Veto_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20251007182704",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Veto_icon.png/revision/latest/scale-to-width-down/96?cb=20251007182648",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/04/Veto_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20251007182704",
     "abilities": [
       {
-        "name": "Crosscut Chokehold",
+        "name": "Crosscut",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f6/Crosscut.png/revision/latest/scale-to-width-down/96?cb=20251005210651"
+      },
+      {
+        "name": "Chokehold",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/1/12/Chokehold.png/revision/latest/scale-to-width-down/96?cb=20251005210650"
       },
       {
         "name": "Interceptor",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/cf/Interceptor.png/revision/latest/scale-to-width-down/96?cb=20251005210653"
       },
       {
         "name": "Evolution",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/5/53/Evolution.png/revision/latest/scale-to-width-down/96?cb=20251005210652"
       }
     ],
     "origin": "Senegal",
@@ -871,34 +985,34 @@
     "url": "https://valorant.fandom.com/wiki/Viper",
     "description": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mind games surely will.",
     "role": "Controller",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043911",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/85/Viper_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202837",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Viper_icon.png/revision/latest/scale-to-width-down/96?cb=20230523180950",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/85/Viper_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202837",
     "abilities": [
       {
-        "name": "Snake Bite Poison Cloud",
+        "name": "Snake Bite",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/a2/Snake_Bite.png/revision/latest/scale-to-width-down/96?cb=20200405224128"
+      },
+      {
+        "name": "Poison Cloud",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Poison_Cloud.png/revision/latest/scale-to-width-down/96?cb=20200405224117"
       },
       {
         "name": "Toxic Screen",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/cd/Toxic_Screen.png/revision/latest/scale-to-width-down/96?cb=20200405224110"
       },
       {
         "name": "Viper's Pit",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
-      },
-      {
-        "name": "Fuel Toxin",
-        "slot": "Passive",
-        "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/cb/Viper%27s_Pit.png/revision/latest/scale-to-width-down/96?cb=20200802082936"
       }
     ],
     "origin": "United States",
@@ -910,28 +1024,34 @@
     "url": "https://valorant.fandom.com/wiki/Vyse",
     "description": "Metallic mastermind Vyse unleashes liquid metal to isolate, trap, and disarm her enemies. Through cunning and manipulation, she forces all who oppose her to fear the battlefield itself.",
     "role": "Sentinel",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043934",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Vyse_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20240827165746",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/2/21/Vyse_icon.png/revision/latest/scale-to-width-down/96?cb=20240827165928",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Vyse_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20240827165746",
     "abilities": [
       {
-        "name": "Razorvine Shear",
+        "name": "Razorvine",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/6/66/Razorvine.png/revision/latest/scale-to-width-down/96?cb=20240827165759"
+      },
+      {
+        "name": "Shear",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/a/a2/Shear.png/revision/latest/scale-to-width-down/96?cb=20240827165830"
       },
       {
         "name": "Arc Rose",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/3/38/Arc_Rose.png/revision/latest/scale-to-width-down/96?cb=20240827165838"
       },
       {
         "name": "Steel Garden",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/cb/Steel_Garden.png/revision/latest/scale-to-width-down/96?cb=20240827165844"
       }
     ],
     "origin": "",
@@ -943,28 +1063,34 @@
     "url": "https://valorant.fandom.com/wiki/Waylay",
     "description": "Thailand's prismatic radiant Waylay transforms into light itself as she darts across the battlefield, striking down her targets through shards of light before flitting back to safety, all in the blink of an eye.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Waylay_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20250304181227",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/3/3d/Waylay_icon.png/revision/latest/scale-to-width-down/96?cb=20250304181241",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Waylay_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20250304181227",
     "abilities": [
       {
-        "name": "Saturate Lightspeed",
+        "name": "Saturate",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fb/Saturate.png/revision/latest/scale-to-width-down/96?cb=20250304181114"
+      },
+      {
+        "name": "Lightspeed",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/be/Lightspeed.png/revision/latest/scale-to-width-down/96?cb=20250304181110"
       },
       {
         "name": "Refract",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/c/c0/Refract.png/revision/latest/scale-to-width-down/96?cb=20250304181111"
       },
       {
         "name": "Convergent Paths",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Convergent_Paths.png/revision/latest/scale-to-width-down/96?cb=20250304181106"
       }
     ],
     "origin": "Thailand",
@@ -976,28 +1102,34 @@
     "url": "https://valorant.fandom.com/wiki/Yoru",
     "description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
     "role": "Duelist",
-    "role_icon_url": null,
+    "role_icon_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest/scale-to-width-down/96?cb=20200408043920",
     "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202841",
-    "bust_icon_url": null,
+    "bust_icon_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Yoru_icon.png/revision/latest/scale-to-width-down/96?cb=20250318173810",
     "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202841",
     "abilities": [
       {
-        "name": "Fakeout Blindside",
+        "name": "Fakeout",
         "slot": "Basic",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b1/Fakeout.png/revision/latest/scale-to-width-down/96?cb=20220301160110"
+      },
+      {
+        "name": "Blindside",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/2/2f/Blindside.png/revision/latest/scale-to-width-down/96?cb=20210112180620"
       },
       {
         "name": "Gatecrash",
         "slot": "Signature",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/f/f4/Gatecrash.png/revision/latest/scale-to-width-down/96?cb=20210119041159"
       },
       {
         "name": "Dimensional Drift",
         "slot": "Ultimate",
         "description": "",
-        "icon_url": null
+        "icon_url": "https://static.wikia.nocookie.net/valorant/images/7/70/Dimensional_Drift.png/revision/latest/scale-to-width-down/96?cb=20210112180612"
       }
     ],
     "origin": "Japan",

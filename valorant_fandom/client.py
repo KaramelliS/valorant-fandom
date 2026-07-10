@@ -122,20 +122,61 @@ class ValorantClient:
         parsed = self._parse_infobox(soup)
         info = parsed["info"]
         images = parsed["images"]
+        aside = soup.find("aside", class_="portable-infobox") or soup.find("aside")
 
+        # Parse abilities from infobox HTML structure (with icons)
         abilities = []
-        abi_map = {
-            "Basic Abilities": "Basic",
-            "Signature Abilities": "Signature",
-            "Ultimate Ability": "Ultimate",
-            "Passives": "Passive",
+        abi_sources = {
+            "basic": "Basic",
+            "signature": "Signature",
+            "ultimate": "Ultimate",
+            "passives": "Passive",
         }
-        for label, slot in abi_map.items():
-            val = info.get(label, "")
-            if val:
-                names = [a.strip() for a in val.split("\n") if a.strip()]
-                for name in names:
-                    abilities.append(AgentAbility(name=name, slot=slot))
+        if aside:
+            for data_source, slot in abi_sources.items():
+                abi_item = aside.select_one(f'.pi-item[data-source="{data_source}"]')
+                if abi_item:
+                    value_div = abi_item.select_one(".pi-data-value")
+                    if value_div:
+                        # Find all <img> inside .Invert spans (ability icons, ordered)
+                        icon_imgs = value_div.select(".Invert img")
+                        icons = []
+                        for img in icon_imgs:
+                            src = img.get("data-src") or img.get("src")
+                            if src and "base64" not in src:
+                                icons.append(src.replace("scale-to-width-down/25", "scale-to-width-down/96"))
+                            else:
+                                icons.append(None)
+
+                        # Find ability name links (skip image links with .image class)
+                        name_links = value_div.select('a[href]')
+                        icon_idx = 0
+                        for link in name_links:
+                            name = link.get_text(strip=True)
+                            # Skip links that are just images (no text, or have .image class)
+                            if not name or "image" in link.get("class", []):
+                                continue
+                            icon_url = icons[icon_idx] if icon_idx < len(icons) else None
+                            abilities.append(AgentAbility(name=name, slot=slot, icon_url=icon_url))
+                            icon_idx += 1
+
+        # Extract role icon
+        role_icon_url = None
+        if aside:
+            role_item = aside.select_one('.pi-item[data-source="role"] img')
+            if role_item:
+                role_icon_url = role_item.get("data-src") or role_item.get("src")
+                if role_icon_url and "base64" not in role_icon_url:
+                    role_icon_url = role_icon_url.replace("scale-to-width-down/25", "scale-to-width-down/96")
+
+        # Extract bust icon (agent select icon in infobox title)
+        bust_icon_url = None
+        if aside:
+            title_img = aside.select_one(".pi-title img")
+            if title_img:
+                bust_icon_url = title_img.get("data-src") or title_img.get("src")
+                if bust_icon_url and "base64" not in bust_icon_url:
+                    bust_icon_url = bust_icon_url.replace("scale-to-width-down/25", "scale-to-width-down/96")
 
         portrait = (
             images.get("Artwork")
@@ -155,6 +196,8 @@ class ValorantClient:
             "abilities": abilities,
             "description": description,
             "portrait_url": portrait,
+            "role_icon_url": role_icon_url,
+            "bust_icon_url": bust_icon_url,
         }
 
     def _get_role_for_agent(self, name: str) -> str:
@@ -220,6 +263,8 @@ class ValorantClient:
                 agent.origin = details["info"].get("Origin", "")
                 agent.codename = details["info"].get("Codenames", "")
                 agent.release_patch = details["info"].get("Added", "")
+                agent.role_icon_url = details.get("role_icon_url")
+                agent.bust_icon_url = details.get("bust_icon_url")
                 if details.get("portrait_url"):
                     agent.full_portrait_url = details["portrait_url"]
 
@@ -275,6 +320,7 @@ class ValorantClient:
                     weapon.description = wdata["description"]
                     weapon.cost = wdata["cost"]
                     weapon.stats = wdata["stats"]
+                    weapon.killfeed_icon_url = wdata.get("killfeed_icon_url")
 
                 all_weapons.append(weapon)
 
@@ -289,19 +335,33 @@ class ValorantClient:
         html = data.get("parse", {}).get("text", {}).get("*", "")
         soup = BeautifulSoup(html, "html.parser")
 
-        parsed = self._parse_infobox(soup)
-        info = parsed.get("info", {})
+        aside = soup.find("aside", class_="portable-infobox") or soup.find("aside")
+
+        def _get_data_value(source):
+            if not aside:
+                return ""
+            el = aside.select_one(f'div[data-source="{source}"] .pi-data-value')
+            return el.get_text(" ", strip=True) if el else ""
 
         stats = WeaponStats(
-            fire_rate=info.get("Fire Rate", info.get("Rate of Fire", "")),
-            run_speed=info.get("Run Speed", info.get("Movement Speed", "")),
-            equip_speed=info.get("Equip Speed", info.get("Equip Time", "")),
-            reload_speed=info.get("Reload Speed", info.get("Reload Time", "")),
-            magazine_size=info.get("Magazine Size", info.get("Mag Capacity", "")),
-            wall_penetration=info.get("Wall Penetration", ""),
+            fire_rate=_get_data_value("rate"),
+            run_speed=_get_data_value("run"),
+            equip_speed=_get_data_value("equip"),
+            reload_speed=_get_data_value("reload"),
+            magazine_size=_get_data_value("magazine"),
+            wall_penetration=_get_data_value("penetration"),
         )
 
-        cost = info.get("Cost", info.get("Creds", ""))
+        cost = _get_data_value("credits")
+
+        # Killfeed icon
+        killfeed_icon_url = None
+        if aside:
+            killfeed_img = aside.select_one('div[data-source="killfeed"] img')
+            if killfeed_img:
+                src = killfeed_img.get("data-src") or killfeed_img.get("src")
+                if src and "base64" not in src:
+                    killfeed_icon_url = src
 
         desc_el = soup.select_one("aside ~ p")
         description = desc_el.get_text(strip=True) if desc_el else ""
@@ -310,6 +370,7 @@ class ValorantClient:
             "description": description,
             "cost": cost,
             "stats": stats,
+            "killfeed_icon_url": killfeed_icon_url,
         }
 
     def get_weapon_skins(self, weapon_name: str) -> list[WeaponSkin]:
@@ -419,17 +480,22 @@ class ValorantClient:
         html = data.get("parse", {}).get("text", {}).get("*", "")
         soup = BeautifulSoup(html, "html.parser")
 
-        parsed = self._parse_infobox(soup)
-        info = parsed.get("info", {})
+        aside = soup.find("aside", class_="portable-infobox") or soup.find("aside")
+
+        def _get_data_value(source):
+            if not aside:
+                return ""
+            el = aside.select_one(f'div[data-source="{source}"] .pi-data-value')
+            return el.get_text(" ", strip=True) if el else ""
 
         desc_el = soup.select_one("aside ~ p")
         description = desc_el.get_text(strip=True) if desc_el else ""
 
         return {
             "description": description,
-            "location": info.get("Location", ""),
-            "patch": info.get("Patch", info.get("Added", "")),
-            "coordinates": info.get("Coordinates", ""),
+            "location": _get_data_value("location"),
+            "patch": _get_data_value("patch") or _get_data_value("added"),
+            "coordinates": _get_data_value("coordinates"),
         }
 
     def get_agent_icon(self, name: str, size: int = 96) -> Optional[str]:
