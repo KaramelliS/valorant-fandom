@@ -1,56 +1,63 @@
 # Valorant Fandom
 
-Valorant Fandom Wiki verileri - Python kutuphanesi **veya** direkt JSON olarak kullanilabilir.
+Valorant Fandom Wiki verileri — 3 kullanim sekli:
 
-## Python Kutuphanesi
+## 1. HTML'e direkt import (CDN)
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/KaramelliS/valorant-fandom@master/dist/valorant-fandom.min.js"></script>
+<script>
+  ValorantFandom.getAgents().then(function(agents) {
+    console.log(agents); // 29 ajan
+  });
+</script>
+```
+
+## 2. npm
 
 ```bash
-pip install valorant-fandom
+npm i valorant-fandom
 ```
-
-```python
-from valorant_fandom import ValorantClient
-
-client = ValorantClient()
-
-agents = client.get_agents()
-weapons = client.get_weapons()
-maps = client.get_maps()
-
-# Detayli
-agents = client.get_agents(parse_details=True)
-
-# Skinler
-skins = client.get_weapon_skins("Vandal")  # 96 skin
-all_skins = client.get_all_skins()         # 1068 skin
-```
-
-## Direkt JSON (dil bagimsiz)
 
 ```js
-// JavaScript
-const agents = await fetch("data/agents.json").then(r => r.json());
-const weapons = await fetch("data/weapons.json").then(r => r.json());
-const skins = await fetch("data/skins.json").then(r => r.json());
+import VF from 'valorant-fandom';
+const agents = await VF.getAgents();
 ```
 
-```python
-# Python (kutuphane kurmadan)
-import json
-agents = json.load(open("data/agents.json"))
+## 3. Direkt JSON (dil bagimsiz)
+
+```
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/agents.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/weapons.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/maps.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/skins.json
 ```
 
-## JSON Dosyalari
+## Demo
 
-| Dosya | Icerik | Kayit |
-|-------|--------|-------|
-| `data/agents.json` | Ajanlar (isim, rol, yetenekler, origin, gorsel) | 29 |
-| `data/weapons.json` | Silahlar (isim, kategori, istatistikler, gorsel) | 19 |
-| `data/maps.json` | Haritalar (isim, konum, gorsel, patch) | 13 |
-| `data/skins.json` | Tum silah skinleri (isim, gorsel) | 1068 |
+https://karamellis.github.io/valorant-fandom/
 
-## JSON'u Yeniden Olusturma
+## API
 
-```bash
-python -m valorant_fandom.export
-```
+| Metod | Donus |
+|-------|-------|
+| `getAgents()` | Tum ajanlar (29) |
+| `getAgent('Jett')` | Tek ajan |
+| `getWeapons()` | Tum silahlar (19) |
+| `getWeapon('Vandal')` | Tek silah |
+| `getMaps()` | Tum haritalar (13) |
+| `getSkins()` | Tum skinler (1068) |
+| `getSkins('Vandal')` | Sadece Vandal skinleri |
+| `search('Vandal')` | Arama |
+| `getAgentsByRole('Duelist')` | Role gore filtre |
+| `setBaseUrl(url)` | Kendi JSON endpoint'in |
+| `clearCache()` | Cache temizle |
+
+## Veri
+
+| Dosya | Kayit |
+|-------|-------|
+| `data/agents.json` | 29 ajan |
+| `data/weapons.json` | 19 silah |
+| `data/maps.json` | 13 harita |
+| `data/skins.json` | 1068 skin |
