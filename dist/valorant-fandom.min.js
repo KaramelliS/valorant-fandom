@@ -15,7 +15,7 @@
 }(typeof self !== 'undefined' ? self : this, function () {
   'use strict';
 
-  var BASE_URL = 'https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data';
+  var BASE_URL = 'https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data';
   var _cache = {};
 
   function _fetch(url) {

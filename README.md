@@ -5,7 +5,7 @@ Valorant Fandom Wiki verileri — 3 kullanim sekli:
 ## 1. HTML'e direkt import
 
 ```html
-<script src="https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/dist/valorant-fandom.min.js"></script>
+<script src="https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js"></script>
 <script>
   ValorantFandom.getAgents().then(function(agents) {
     console.log(agents); // 29 ajan
@@ -16,10 +16,10 @@ Valorant Fandom Wiki verileri — 3 kullanim sekli:
 ## 2. Direkt JSON (dil bagimsiz)
 
 ```
-https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/agents.json
-https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/weapons.json
-https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/maps.json
-https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/skins.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/agents.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/weapons.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/maps.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/skins.json
 ```
 
 ## Demo
