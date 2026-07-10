@@ -2,10 +2,10 @@
 
 Valorant Fandom Wiki verileri — 3 kullanim sekli:
 
-## 1. HTML'e direkt import (CDN)
+## 1. HTML'e direkt import
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/KaramelliS/valorant-fandom@master/dist/valorant-fandom.min.js"></script>
+<script src="https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/dist/valorant-fandom.min.js"></script>
 <script>
   ValorantFandom.getAgents().then(function(agents) {
     console.log(agents); // 29 ajan
@@ -13,18 +13,7 @@ Valorant Fandom Wiki verileri — 3 kullanim sekli:
 </script>
 ```
 
-## 2. npm
-
-```bash
-npm i valorant-fandom
-```
-
-```js
-import VF from 'valorant-fandom';
-const agents = await VF.getAgents();
-```
-
-## 3. Direkt JSON (dil bagimsiz)
+## 2. Direkt JSON (dil bagimsiz)
 
 ```
 https://raw.githubusercontent.com/KaramelliS/valorant-fandom/main/data/agents.json
