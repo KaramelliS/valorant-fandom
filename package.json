@@ -1,0 +1,19 @@
+{
+  "name": "valorant-fandom",
+  "version": "1.0.0",
+  "description": "Valorant Fandom Wiki verileri - JS kutuphanesi. HTML'e direkt import edilebilir.",
+  "main": "dist/valorant-fandom.min.js",
+  "unpkg": "dist/valorant-fandom.min.js",
+  "jsdelivr": "dist/valorant-fandom.min.js",
+  "files": ["dist/", "data/"],
+  "keywords": ["valorant", "fandom", "wiki", "agents", "weapons", "skins", "maps"],
+  "license": "MIT",
+  "repository": "github:hzKamburga/valorant-fandom",
+  "scripts": {
+    "build": "uglifyjs src/valorant-fandom.js -o dist/valorant-fandom.min.js -c -m",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.17.0"
+  }
+}

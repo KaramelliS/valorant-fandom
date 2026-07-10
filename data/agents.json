@@ -1,0 +1,1007 @@
+[
+  {
+    "name": "Astra",
+    "url": "https://valorant.fandom.com/wiki/Astra",
+    "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she’s always eons ahead of her enemy’s next move.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202708",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202708",
+    "abilities": [
+      {
+        "name": "Gravity Well Nova Pulse Nebula/Dissipate",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Stars",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Cosmic Divide",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Astral Form",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Accra, Ghana",
+    "codename": "Rift",
+    "release_patch": "March 2nd, 2021 ( EP 02 Act 2 , v2.04 )"
+  },
+  {
+    "name": "Breach",
+    "url": "https://valorant.fandom.com/wiki/Breach",
+    "description": "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Breach_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202713",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Breach_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202713",
+    "abilities": [
+      {
+        "name": "Aftershock Flashpoint",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Fault Line",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Rolling Thunder",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Sweden",
+    "codename": "Breach",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Brimstone",
+    "url": "https://valorant.fandom.com/wiki/Brimstone",
+    "description": "Joining from the U.S.A., Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Brimstone_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202719",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Brimstone_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202719",
+    "abilities": [
+      {
+        "name": "Incendiary Stim Beacon",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Sky Smoke",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Orbital Strike",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Baltimore, Maryland, United States",
+    "codename": "Sarge",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Chamber",
+    "url": "https://valorant.fandom.com/wiki/Chamber",
+    "description": "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202725",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202725",
+    "abilities": [
+      {
+        "name": "Trademark Headhunter",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Rendezvous",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Tour De Force",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "France",
+    "codename": "Deadeye",
+    "release_patch": "November 16th, 2021 ( EP 03 Act 3 , v3.10 )"
+  },
+  {
+    "name": "Clove",
+    "url": "https://valorant.fandom.com/wiki/Clove",
+    "description": "Scottish troublemaker Clove makes mischief for enemies in both the heat of combat and the cold of death. The young immortal keeps foes guessing, even from beyond the grave, their\nreturn to the living only ever a moment away.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/0b/Clove_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20240326163704",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/0b/Clove_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20240326163704",
+    "abilities": [
+      {
+        "name": "Pick-me-up Meddle",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Ruse",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Not Dead Yet",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Edinburgh, Scotland, United Kingdom",
+    "codename": "Smonk",
+    "release_patch": "March 26th, 2024 ( EP 08 Act 2 , v8.05 )"
+  },
+  {
+    "name": "Cypher",
+    "url": "https://valorant.fandom.com/wiki/Cypher",
+    "description": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy’s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202731",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202731",
+    "abilities": [
+      {
+        "name": "Trapwire Cyber Cage",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Spycam",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Neural Theft",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Rabat, Morocco",
+    "codename": "Gumshoe",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Deadlock",
+    "url": "https://valorant.fandom.com/wiki/Deadlock",
+    "description": "Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives her unyielding ferocity.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/a/aa/Deadlock_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20230627132700",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/a/aa/Deadlock_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20230627132700",
+    "abilities": [
+      {
+        "name": "Barrier Mesh Sonic Sensor",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "GravNet",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Annihilation",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Norway",
+    "codename": "Cable",
+    "release_patch": "June 27th, 2023 ( EP 07 Act 1 , v7.0 )"
+  },
+  {
+    "name": "Fade",
+    "url": "https://valorant.fandom.com/wiki/Fade",
+    "description": "Turkish bounty hunter Fade unleashes the power of raw nightmare to seize enemy secrets. Attuned with terror itself, she hunts down targets and reveals their deepest fears - before crushing them in the dark.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202738",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202738",
+    "abilities": [
+      {
+        "name": "Prowler Seize",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Haunt",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Nightfall",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Terror Trail",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Istanbul, Türkiye",
+    "codename": "BountyHunter",
+    "release_patch": "April 27th, 2022 ( EP 04 Act 3 , v4.08 )"
+  },
+  {
+    "name": "Gekko",
+    "url": "https://valorant.fandom.com/wiki/Gekko",
+    "description": "Gekko the Angeleno leads a tight-knit crew of calamitous creatures. His buddies bound forward, scattering enemies out of the way, with Gekko chasing them down to regroup and go again.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/a/a4/Gekko_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20230304203025",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/a/a4/Gekko_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20230304203025",
+    "abilities": [
+      {
+        "name": "Mosh Pit Wingman",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Dizzy",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Thrash",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Globules",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Los Angeles, California, United States",
+    "codename": "Aggrobot",
+    "release_patch": "March 7th, 2023 ( EP 06 Act 2 , v6.04 )"
+  },
+  {
+    "name": "Harbor",
+    "url": "https://valorant.fandom.com/wiki/Harbor",
+    "description": "Hailing from India's coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies, or pummel those that oppose him.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Harbor_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20221018133900",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Harbor_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20221018133900",
+    "abilities": [
+      {
+        "name": "Storm Surge High Tide",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Cove",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Reckoning",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "India",
+    "codename": "Mage",
+    "release_patch": "October 18th, 2022 ( EP 05 Act 3 , v5.08 )"
+  },
+  {
+    "name": "Iso",
+    "url": "https://valorant.fandom.com/wiki/Iso",
+    "description": "Chinese fixer for hire Iso goes into a flow state to dismantle the opposition. Reconfiguring ambient energy into bulletproof protection, he advances with focus towards his next duel to the death.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Iso_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20231031131018",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Iso_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20231031131018",
+    "abilities": [
+      {
+        "name": "Contingency Undercut",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Double Tap",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Kill Contract",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Chongqing, China",
+    "codename": "Sequoia",
+    "release_patch": "October 31st, 2023 ( EP 07 Act 3 , v7.09 )"
+  },
+  {
+    "name": "Jett",
+    "url": "https://valorant.fandom.com/wiki/Jett",
+    "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202742",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202742",
+    "abilities": [
+      {
+        "name": "Cloudburst Updraft",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Tailwind",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Blade Storm",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Drift",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Seoul, South Korea",
+    "codename": "Wushu",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "KAYO",
+    "url": "https://valorant.fandom.com/wiki/KAYO",
+    "description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to suppress enemy abilities dismantles his opponents' capacity to fight back, securing him and his allies the ultimate edge.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202747",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202747",
+    "abilities": [
+      {
+        "name": "FRAG/ment FLASH/drive",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "ZERO/point",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "NULL/cmd",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Alternate Timeline Earth",
+    "codename": "Grenadier",
+    "release_patch": "June 22nd, 2021 ( EP 03 Act 1 , v3.0 )"
+  },
+  {
+    "name": "Killjoy",
+    "url": "https://valorant.fandom.com/wiki/Killjoy",
+    "description": "The genius of Germany, Killjoy effortlessly secures key battlefield positions with her arsenal of inventions. If their damage doesn't take her enemies out, the debuff her robots provide will make short work of them.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Killjoy_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202751",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Killjoy_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202751",
+    "abilities": [
+      {
+        "name": "Alarmbot Nanoswarm",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Turret",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Lockdown",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Germany",
+    "codename": "Killjoy",
+    "release_patch": "August 4th, 2020 ( EP 01 Act 2 , v1.05 )"
+  },
+  {
+    "name": "Miks",
+    "url": "https://valorant.fandom.com/wiki/Miks",
+    "description": "Straight from Croatia, Miks takes the stage channeling pure sound energy. With his infectious passion\nand sonic powers, he rallies his squad to move as one as they set the tempo on the battlefield together.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Miks_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20260512181533",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Miks_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20260512181533",
+    "abilities": [
+      {
+        "name": "M-pulse Harmonize",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Waveform",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Bassquake",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Croatia",
+    "codename": "Iris",
+    "release_patch": "March 18th, 2026 ( V26 Act 2 , v12.05 )"
+  },
+  {
+    "name": "Neon",
+    "url": "https://valorant.fandom.com/wiki/Neon",
+    "description": "Filipino Agent, Neon, surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard, then strikes them down quicker than lightning.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202800",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202800",
+    "abilities": [
+      {
+        "name": "Fast Lane Relay Bolt",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "High Gear",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Overdrive",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Energy",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Manila, Philippines",
+    "codename": "Sprinter",
+    "release_patch": "January 11th, 2022 ( EP 04 Act 1 , v4.0 )"
+  },
+  {
+    "name": "Omen",
+    "url": "https://valorant.fandom.com/wiki/Omen",
+    "description": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202807",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202807",
+    "abilities": [
+      {
+        "name": "Shrouded Step Paranoia",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Dark Cover",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "From the Shadows",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Alpha Earth",
+    "codename": "Wraith",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Phoenix",
+    "url": "https://valorant.fandom.com/wiki/Phoenix",
+    "description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Phoenix_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202811",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Phoenix_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202811",
+    "abilities": [
+      {
+        "name": "Blaze Hot Hands",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Curveball",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Run it Back",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Heating Up",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "London, England, United Kingdom",
+    "codename": "Phoenix Apollo (Pre- Beta ) [ 1 ]",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Raze",
+    "url": "https://valorant.fandom.com/wiki/Raze",
+    "description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom.”",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202815",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202815",
+    "abilities": [
+      {
+        "name": "Boom Bot Blast Pack",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Paint Shells",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Showstopper",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Salvador, Bahia, Brazil",
+    "codename": "Clay",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Reyna",
+    "url": "https://valorant.fandom.com/wiki/Reyna",
+    "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202820",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202820",
+    "abilities": [
+      {
+        "name": "Leer",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Devour Dismiss",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Empress",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Soul Harvest",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Mexico",
+    "codename": "Vampire",
+    "release_patch": "June 2nd, 2020 ( EP 01 Act 1 , v1.0 )"
+  },
+  {
+    "name": "Sage",
+    "url": "https://valorant.fandom.com/wiki/Sage",
+    "description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20260317170220",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20260317170220",
+    "abilities": [
+      {
+        "name": "Barrier Orb Slow Orb",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Healing Orb",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Resurrection",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "China",
+    "codename": "Thorne",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Skye",
+    "url": "https://valorant.fandom.com/wiki/Skye",
+    "description": "Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202828",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202828",
+    "abilities": [
+      {
+        "name": "Regrowth Trailblazer",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Guiding Light",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Seekers",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Nimbin, New South Wales, Australia",
+    "codename": "Guide",
+    "release_patch": "October 27th, 2020 ( EP 01 Act 3 , v1.11 )"
+  },
+  {
+    "name": "Sova",
+    "url": "https://valorant.fandom.com/wiki/Sova",
+    "description": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/c/c5/Sova_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202832",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/c/c5/Sova_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202832",
+    "abilities": [
+      {
+        "name": "Owl Drone Shock Bolt",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Recon Bolt",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Hunter's Fury",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Severomorsk, Murmansk Oblast, Russia",
+    "codename": "Hunter",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Tejo",
+    "url": "https://valorant.fandom.com/wiki/Tejo",
+    "description": "A veteran intelligence consultant from Colombia, Tejo’s ballistic guidance system pressures the enemy to relinquish their ground - or their lives. His targeted strikes keep opponents off balance and under his heel.",
+    "role": "Initiator",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/c/cc/Tejo_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20250107192526",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/c/cc/Tejo_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20250107192526",
+    "abilities": [
+      {
+        "name": "Stealth Drone Special Delivery",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Guided Salvo",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Armageddon",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Colombia",
+    "codename": "Cashew",
+    "release_patch": "January 8th, 2025 ( V25 Act 1 , v10.00 )"
+  },
+  {
+    "name": "Veto",
+    "url": "https://valorant.fandom.com/wiki/Veto",
+    "description": "Empowered by an unstoppable DNA mutation, Senegalese enforcer Veto defies the rules of engagement by nullifying his opponent's powers and technology. On Veto's battlefield, gunplay is your only guarantee.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/0/04/Veto_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20251007182704",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/0/04/Veto_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20251007182704",
+    "abilities": [
+      {
+        "name": "Crosscut Chokehold",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Interceptor",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Evolution",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Senegal",
+    "codename": "Pine",
+    "release_patch": "October 7th, 2025 ( V25 Act 5 , v11.07b )"
+  },
+  {
+    "name": "Viper",
+    "url": "https://valorant.fandom.com/wiki/Viper",
+    "description": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mind games surely will.",
+    "role": "Controller",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/8/85/Viper_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202837",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/8/85/Viper_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202837",
+    "abilities": [
+      {
+        "name": "Snake Bite Poison Cloud",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Toxic Screen",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Viper's Pit",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Fuel Toxin",
+        "slot": "Passive",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "United States",
+    "codename": "Pandemic",
+    "release_patch": "Beta"
+  },
+  {
+    "name": "Vyse",
+    "url": "https://valorant.fandom.com/wiki/Vyse",
+    "description": "Metallic mastermind Vyse unleashes liquid metal to isolate, trap, and disarm her enemies. Through cunning and manipulation, she forces all who oppose her to fear the battlefield itself.",
+    "role": "Sentinel",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Vyse_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20240827165746",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Vyse_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20240827165746",
+    "abilities": [
+      {
+        "name": "Razorvine Shear",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Arc Rose",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Steel Garden",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "",
+    "codename": "Nox",
+    "release_patch": "August 28th, 2024 ( EP 09 Act 2 , v9.04 )"
+  },
+  {
+    "name": "Waylay",
+    "url": "https://valorant.fandom.com/wiki/Waylay",
+    "description": "Thailand's prismatic radiant Waylay transforms into light itself as she darts across the battlefield, striking down her targets through shards of light before flitting back to safety, all in the blink of an eye.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Waylay_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20250304181227",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Waylay_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20250304181227",
+    "abilities": [
+      {
+        "name": "Saturate Lightspeed",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Refract",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Convergent Paths",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Thailand",
+    "codename": "Terra",
+    "release_patch": "March 5th, 2025 ( V25 Act 2 , v10.04 )"
+  },
+  {
+    "name": "Yoru",
+    "url": "https://valorant.fandom.com/wiki/Yoru",
+    "description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
+    "role": "Duelist",
+    "role_icon_url": null,
+    "full_portrait_url": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/268?cb=20220810202841",
+    "bust_icon_url": null,
+    "thumbnail_url": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/500?cb=20220810202841",
+    "abilities": [
+      {
+        "name": "Fakeout Blindside",
+        "slot": "Basic",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Gatecrash",
+        "slot": "Signature",
+        "description": "",
+        "icon_url": null
+      },
+      {
+        "name": "Dimensional Drift",
+        "slot": "Ultimate",
+        "description": "",
+        "icon_url": null
+      }
+    ],
+    "origin": "Japan",
+    "codename": "Stealth",
+    "release_patch": "January 12th, 2021 ( EP 02 Act 1 , v2.0 )"
+  }
+]

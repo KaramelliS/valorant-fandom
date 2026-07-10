@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Abyss",
+    "url": "https://valorant.fandom.com/wiki/Abyss",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/6/61/Loading_Screen_Abyss.png/revision/latest/scale-to-width-down/500?cb=20240730145619",
+    "minimap_url": null,
+    "location": "Sør-Jan, Jan Mayen, Norway, Alpha Earth",
+    "release_patch": "June 11th, 2024 ( EP 08 Act 3 , v8.11 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Ascent",
+    "url": "https://valorant.fandom.com/wiki/Ascent",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e7/Loading_Screen_Ascent.png/revision/latest/scale-to-width-down/500?cb=20200607180020",
+    "minimap_url": null,
+    "location": "San Marco, Venice, Veneto, Italy, Alpha Earth",
+    "release_patch": "June 2nd, 2020 ( EP 01 Act 1 , v1.0 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Bind",
+    "url": "https://valorant.fandom.com/wiki/Bind",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/2/23/Loading_Screen_Bind.png/revision/latest/scale-to-width-down/500?cb=20200620202316",
+    "minimap_url": null,
+    "location": "Rabat, Rabat-Salé-Kénitra, Morocco, Alpha Earth",
+    "release_patch": "Beta",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Breeze",
+    "url": "https://valorant.fandom.com/wiki/Breeze",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/10/Loading_Screen_Breeze.png/revision/latest/scale-to-width-down/500?cb=20260106175937",
+    "minimap_url": null,
+    "location": "Bermuda Triangle, Atlantic Ocean, Alpha Earth",
+    "release_patch": "April 27th, 2021 ( EP 02 Act 3 , v2.08 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Corrode",
+    "url": "https://valorant.fandom.com/wiki/Corrode",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Loading_Screen_Corrode.png/revision/latest/scale-to-width-down/500?cb=20250624201813",
+    "minimap_url": null,
+    "location": "Mont-Saint-Michel, Normandy, France, Omega Earth",
+    "release_patch": "June 25th, 2025 ( V25 Act 4 , v11.00 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Fracture",
+    "url": "https://valorant.fandom.com/wiki/Fracture",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fc/Loading_Screen_Fracture.png/revision/latest/scale-to-width-down/500?cb=20210908143656",
+    "minimap_url": null,
+    "location": "Santa Fe County, New Mexico, USA, Alpha Earth",
+    "release_patch": "September 8th, 2021 ( EP 03 Act 2 , v3.05 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Haven",
+    "url": "https://valorant.fandom.com/wiki/Haven",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/7/70/Loading_Screen_Haven.png/revision/latest/scale-to-width-down/500?cb=20200620202335",
+    "minimap_url": null,
+    "location": "Thimphu, Thimphu District, Bhutan, Alpha Earth",
+    "release_patch": "Beta",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Icebox",
+    "url": "https://valorant.fandom.com/wiki/Icebox",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/13/Loading_Screen_Icebox.png/revision/latest/scale-to-width-down/500?cb=20250730171440",
+    "minimap_url": null,
+    "location": "Bennett Island, Sakha, Far Eastern Federal District, Russia, Alpha Earth",
+    "release_patch": "October 13th, 2020 ( EP 01 Act 3 , v1.10 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Lotus",
+    "url": "https://valorant.fandom.com/wiki/Lotus",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d0/Loading_Screen_Lotus.png/revision/latest/scale-to-width-down/500?cb=20230106163526",
+    "minimap_url": null,
+    "location": "Western Ghats, Karnataka, India, Omega Earth",
+    "release_patch": "January 10th, 2023 ( EP 06 Act 1 , v6.0 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Pearl",
+    "url": "https://valorant.fandom.com/wiki/Pearl",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/a/af/Loading_Screen_Pearl.png/revision/latest/scale-to-width-down/500?cb=20220622132842",
+    "minimap_url": null,
+    "location": "Lisbon, Lisbon District, Portugal, Omega Earth",
+    "release_patch": "June 22nd, 2022 ( EP 05 Act 1 , v5.0 )",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Split",
+    "url": "https://valorant.fandom.com/wiki/Split",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d6/Loading_Screen_Split.png/revision/latest/scale-to-width-down/500?cb=20230411161807",
+    "minimap_url": null,
+    "location": "Shinjuku, Tokyo, Kantō, Japan, Alpha Earth",
+    "release_patch": "Beta",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Summit",
+    "url": "https://valorant.fandom.com/wiki/Summit",
+    "description": "",
+    "image_url": null,
+    "minimap_url": null,
+    "location": "",
+    "release_patch": "",
+    "coordinates": "",
+    "sites": ""
+  },
+  {
+    "name": "Sunset",
+    "url": "https://valorant.fandom.com/wiki/Sunset",
+    "description": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Loading_Screen_Sunset.png/revision/latest/scale-to-width-down/500?cb=20230829125442",
+    "minimap_url": null,
+    "location": "Boyle Heights, Los Angeles, California, USA, Alpha Earth",
+    "release_patch": "August 29th, 2023 ( EP 07 Act 2 , v7.04 )",
+    "coordinates": "",
+    "sites": ""
+  }
+]

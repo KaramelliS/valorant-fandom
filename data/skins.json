@@ -1,0 +1,6448 @@
+{
+  "Classic": [
+    {
+      "name": "9 Lives",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ATLAS CMD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Avalanche",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Imperium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Black.Market",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bubble Pop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cryostasis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Daydreams",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fiber Optic",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Final Chamber",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Finesse",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "FIRE-ARM",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "FIREarm",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Forsaken",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Galleria",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Goldwing",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gravitational Uranium Neuroblaster",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infinity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Intergrade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kingdom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kohaku & Matsuba",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nocturnum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Panoramic",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Pistolinha",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Premiere Collision",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism III",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Crisis 001",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Red Alert",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Refractrix",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Resolution",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reverie",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sakura",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shimmer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Snowfall",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Songsteel",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spectrum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spline",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Steel Resolve",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Storm Maw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Striker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Surge",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Switchback",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Series",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Torque",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Undercity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x 100T",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x AG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x BBL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x BLD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x BLG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x C9",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x DFM",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x DRG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x DRX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x EDG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x EG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x FNC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x FPX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x FUR",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x FUT",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x G2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x GE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x GEN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x GX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x JDG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x KC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x KOI",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x KRÜ",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x LEV",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x LOUD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x M8",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x MIBR",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x NAVI",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x NOVA",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x NRG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x PRX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x RRQ",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x SEN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x T1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TEC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TH",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TLN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x TYL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x VIT",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x WOL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT x ZETA",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x 100T",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x 2G",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x AG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x APK",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x BBL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x BLG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x BOOM",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x C9",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x DFM",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x DRG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x DRX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x EDG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x EG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x FNC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x FPX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x FUR",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x FUT",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x G2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x GE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x GEN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x GX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x JDG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x KC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x KOI",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x KRÜ",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x LEV",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x LOUD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x M8",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x MIBR",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x NAVI",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x NOVA",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x NRG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x NS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x PRX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x RRQ",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x SEN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x T1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TEC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TH",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TLN",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x TYL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x VIT",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x WOL",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x XLG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VCT25 x ZETA",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Yoonseul",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Shorty": [
+    {
+      "name": "Aerosol",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/95/Aerosol_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711192206",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aquatica",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/91/Aquatica_Shorty.png/revision/latest/scale-to-width-down/300?cb=20240305163627",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e4/Araxys_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711192434",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Chromedek",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/86/Chromedek_Shorty.png/revision/latest/scale-to-width-down/300?cb=20231114172535",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cloudweaver",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/82/Cloudweaver_Shorty.png/revision/latest/scale-to-width-down/300?cb=20240430173650",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doodle Buds",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d5/Doodle_Buds_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711194003",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doom Wing",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/32/Doom_Wing_Shorty.png/revision/latest/scale-to-width-down/300?cb=20250304182059",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Gaia%27s_Vengeance_Shorty.png/revision/latest/scale-to-width-down/300?cb=20231003161245",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Genesis",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b9/Genesis_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711194732",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Guardrail",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7b/Guardrail_Shorty.png/revision/latest/scale-to-width-down/300?cb=20240109154255",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hard Bargain",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/79/Hard_Bargain_Shorty.png/revision/latest/scale-to-width-down/300?cb=20250107193354",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hivemind",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e6/Hivemind_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711195233",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hue Shift",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f6/Hue_Shift_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711195340",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Karabasan",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/43/Karabasan_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711200213",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monarch",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f5/Monarch_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711201206",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/48/Neptune_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711201607",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Oni_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711201957",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Perch",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/12/Perch_Shorty.png/revision/latest/scale-to-width-down/300?cb=20250624202312",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prelude to Chaos",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/78/Prelude_to_Chaos_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711202424",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Primordium",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ad/Primordium_Shorty.png/revision/latest/scale-to-width-down/300?cb=20240305163642",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism II",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/01/Prism_II_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711202729",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruin",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/53/Ruin_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711203944",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rune Stone",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Rune_Stone_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711204127",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/cd/Sentinels_of_Light_Shorty.png/revision/latest/scale-to-width-down/300?cb=20231114172541",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sidekick",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/cb/Sidekick_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711204530",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Snakebite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bf/Snakebite_Shorty.png/revision/latest/scale-to-width-down/300?cb=20240206163501",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tigris",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4c/Tigris_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711205846",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tilde",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7e/Tilde_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711210020",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Transition",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/82/Transition_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230829125611",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Velocity",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/cc/Velocity_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711210334",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wasteland",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9a/Wasteland_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711210443",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wayfinder",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d8/Wayfinder_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711210514",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wunderkind",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/79/Wunderkind_Shorty.png/revision/latest/scale-to-width-down/300?cb=20230711210556",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Frenzy": [
+    {
+      "name": "Aero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Frenzy Black",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Frenzy Pink",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Frenzy Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Blush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bolt",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bulletbox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestial",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Coalition Cobra",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Combat Crafts",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Couture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divine Swine",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Elderflame",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Emberclad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Guardrail",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hieroscape",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Holomoku",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Horizon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hydrodip",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kaleidoscope",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lightwave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Live Wire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monarch",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moondash",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nunca Olvidados",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Origin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Orion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime 2.0",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ragnarocker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RagnaRocker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sarmad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sensation",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shellspire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silhouette",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spellbound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spitfire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Swooping",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Series",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Task Force 809",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Team Ace",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Titanmail",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Venturi",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wonderstallion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Xenohunter",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Ghost": [
+    {
+      "name": ".EXE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aperture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Arcade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Artisan",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Ghost Blue",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Ghost Camo",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Ghost Gold",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bumble Brigade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Ghost Purple",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Ghost Red",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Ghost Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cavalier",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestia",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Comet",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Ghost Level 3",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Ghost Purple",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Ghost Red",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Ghost Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Depths",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Digihex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Eclipse",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ego",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Endeavour",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Evori Dreamwings",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fiber Optic",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Flutter",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fortune's Hand",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Freehand",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Frequency",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Goldwing",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gridcrash",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infantry",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Jigsaw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Libretto",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luna",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lycan's Bane",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "NO LIMITS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Outpost",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Phaseguard",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Piedra del Sol",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Entertainment System",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Recon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruination",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rupture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Serenity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Soul Silencer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Soulstrife",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spitfire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Starlit Odyssey",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Treat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tethered Realms",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Topotek",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Valiant Hero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 3",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Vendetta",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Winterwunderland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "XERØFANG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Sheriff": [
+    {
+      "name": ".SYS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Abyssal",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aemondir",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Altitude",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Arcane",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aristocrat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ChronoVoid",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cloudweaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Composite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Crimsonbeast",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Death Wish",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doombringer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Drips",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "EX.O",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Game Over",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Immortalized",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Imperium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Iridian Thorn",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "KTAC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kuronami",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lightwave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monstrocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moon Scout",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Mystbloom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Mythmaker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nanobreak",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nebula",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neo Frontier",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overdrive",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overlay",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Peacekeeper",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfrog",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism II",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Protektor",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Protocol 781-A",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Retrowave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ronin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sakura",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sandswept",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Schema",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Signature",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silvanus",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Solarex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Space Piercer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Surge",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Varnish",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wasteland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wayfarer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Stinger": [
+    {
+      "name": ".SYS",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/21/.SYS_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711191805",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aquatica",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/92/Aquatica_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240305163628",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aristocrat",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bf/Aristocrat_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711192540",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cavalier",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c4/Cavalier_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711193126",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestia",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/45/Celestia_Stinger.png/revision/latest/scale-to-width-down/300?cb=20250107193337",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cloudweaver",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/77/Cloudweaver_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240430173646",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Composite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f2/Composite_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711193524",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convergence",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/57/Convergence_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240625161558",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Couture",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/59/Couture_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711193626",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Stinger Level 3",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/17/CYRAX_Stinger_Level_3.png/revision/latest/scale-to-width-down/300?cb=20250305143556",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d8/CYRAX_Stinger.png/revision/latest/scale-to-width-down/300?cb=20250304182049",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Depths",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/73/Depths_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711193751",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doodle Buds",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/ca/Doodle_Buds_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711194015",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ego",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/43/Ego_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711194132",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gridcrash",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e2/Gridcrash_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711195217",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Immortalized",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/3d/Immortalized_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711195521",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Libretto",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9e/Libretto_Stinger.png/revision/latest/scale-to-width-down/300?cb=20231031131028",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lycan's Bane",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fc/Lycan%27s_Bane_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711200723",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moondash",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f2/Moondash_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711201345",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overdrive",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a4/Overdrive_Stinger.png/revision/latest/scale-to-width-down/300?cb=20231205181731",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overlay",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/78/Overlay_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240827165641",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prelude to Chaos",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/88/Prelude_to_Chaos_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711202439",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism II",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7d/Prism_II_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711202734",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Red Alert",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7d/Red_Alert_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711203536",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Refractrix",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/76/Refractrix_Stinger.png/revision/latest/scale-to-width-down/300?cb=20250304182102",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/29/RGX_11z_Pro_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711203851",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sakura",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f7/Sakura_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204225",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Schema",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Schema_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204314",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sensation",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e1/Sensation_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204341",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shimmer",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a8/Shimmer_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204524",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Signature",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8a/Signature_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204553",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silvanus",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/11/Silvanus_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711204616",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9e/Sovereign_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711205050",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Storm Maw",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/ec/Storm_Maw_Stinger.png/revision/latest/scale-to-width-down/300?cb=20250318173618",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Surge",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ac/Surge_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711205652",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Switchback",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/ed/Switchback_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240416150243",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tactiplay",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d3/Tactiplay_Stinger.png/revision/latest/scale-to-width-down/300?cb=20240109154205",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Transition",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/00/Transition_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230829125615",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Varnish",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9a/Varnish_Stinger.png/revision/latest/scale-to-width-down/300?cb=20230711210207",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Spectre": [
+    {
+      "name": "Abyssal",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Arcade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ATLAS CMD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Avalanche",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Spectre Blue",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Spectre Camo",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Spectre Gold",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Spectre Black",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Spectre Pink",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Spectre Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Blush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bolt",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestia",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Comet",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Emberclad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Evori Dreamwings",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "EX.O",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fiber Optic",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Forsaken",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Freehand",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gravitational Uranium Neuroblaster",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Helix",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hivemind",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Horizon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hue Shift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infantry",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infinity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Intergrade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kingdom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kuronami",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luna",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monstrocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "NO LIMITS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfrog",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Primordium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Protocol 781-A",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Crisis 001",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Recon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruination",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rupture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sandswept",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sarmad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Serenity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shellspire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Solarex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Soulstrife",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spline",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Starlit Odyssey",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Striker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Task Force 809",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tigris",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Torque",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Unsilenced",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 3",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Velocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Venturi",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wasteland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wonderstallion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Yoonseul",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Bucky": [
+    {
+      "name": ".SYS",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/79/.SYS_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711191751",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aemondir",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ac/Aemondir_Bucky.png/revision/latest/scale-to-width-down/300?cb=20240621121556",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aerosol",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/75/Aerosol_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711192149",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Altitude",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/db/Altitude_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711192217",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Arcade",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fc/Arcade_Bucky.png/revision/latest/scale-to-width-down/300?cb=20200417065051",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Artisan",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Artisan_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711192604",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bulletbox",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Bulletbox_Bucky.png/revision/latest/scale-to-width-down/300?cb=20241022162943",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cavalier",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/72/Cavalier_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711193109",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Frequency",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d2/Frequency_Bucky.png/revision/latest/scale-to-width-down/300?cb=20240827165603",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/Gaia%27s_Vengeance_Bucky.png/revision/latest/scale-to-width-down/300?cb=20231003161238",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Galleria",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/37/Galleria_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711194631",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Genesis",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/15/Genesis_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711194716",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gravitational Uranium Neuroblaster",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ae/Gravitational_Uranium_Neuroblaster_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711195106",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Horizon",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d1/Horizon_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711195301",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hydrodip",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/92/Hydrodip_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711195356",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Ion_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711195811",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Iridian Thorn",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/2c/Iridian_Thorn_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711200022",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kingdom",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Kingdom_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711200219",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lightwave",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Lightwave_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711200425",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e4/Magepunk_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711200801",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monarch",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fa/Monarch_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711201147",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moon Scout",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/88/Moon_Scout_Bucky.png/revision/latest/scale-to-width-down/300?cb=20250107193400",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e8/Oni_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711201841",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Origin",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/2e/Origin_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711202101",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overdrive",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e9/Overdrive_Bucky.png/revision/latest/scale-to-width-down/300?cb=20231205181714",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Panoramic",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4a/Panoramic_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230829125558",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Piedra del Sol",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/ef/Piedra_del_Sol_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711202235",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime 2.0",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/18/Prime_2.0_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711202653",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism II",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d1/Prism_II_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711202717",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Crisis 001",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d1/Radiant_Crisis_001_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711203035",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Red Alert",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/2a/Red_Alert_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711203518",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Retrowave",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b4/Retrowave_Bucky.png/revision/latest/scale-to-width-down/300?cb=20240305163653",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/57/Smite_Bucky.png/revision/latest/scale-to-width-down/300?cb=20250304182208",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spellbound",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9b/Spellbound_Bucky.png/revision/latest/scale-to-width-down/300?cb=20250430170638",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Surge",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c7/Surge_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711205553",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Titanmail",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/46/Titanmail_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711210032",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Topotek",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/69/Topotek_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711210051",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Xenohunter",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e1/Xenohunter_Bucky.png/revision/latest/scale-to-width-down/300?cb=20230711210601",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Judge": [
+    {
+      "name": ".EXE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bubble Pop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bumble Brigade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Judge Purple",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Judge Red",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Judge Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestial",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ChronoVoid",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Coalition Cobra",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Combat Crafts",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Crimsonbeast",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Daydreams",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Digihex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divine Swine",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doombringer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Elderflame",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Goldwing",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gridcrash",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hydrodip",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Imperium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Iridian Thorn",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Jigsaw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kohaku & Matsuba",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "MK.VII Liberty",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Mystbloom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nanobreak",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Outpost",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Piedra del Sol",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism III",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rupture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sensation",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Serenity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shimmer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silhouette",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Snowfall",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Space Piercer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Storm Maw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Treat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Team Ace",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tilde",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Undercity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Varnish",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Bulldog": [
+    {
+      "name": "Aemondir",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aperture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aristocrat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Black.Market",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bulletbox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bumble Brigade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Chromedek",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Combat Crafts",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Couture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cryostasis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Depths",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Digihex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Drips",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Emberclad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Endeavour",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Frequency",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Genesis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gridcrash",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hieroscape",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Holomoku",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Horizon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hue Shift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infinity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "KTAC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Libretto",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "NO LIMITS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nocturnum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nunca Olvidados",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Perch",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Phaseguard",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Premiere Collision",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Protocol 781-A",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Entertainment System",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Retrowave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ronin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rune Stone",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rupture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shimmer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spectrum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spellbound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Striker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tactiplay",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tilde",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Transition",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Undercity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Varnish",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Velocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Guardian": [
+    {
+      "name": "9 Lives",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Abyssal",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Blush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bubble Pop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bulletbox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Guardian Level 3",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Guardian Purple",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Guardian Red",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX Guardian Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ego",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fortune's Hand",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Galleria",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Guardrail",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hydrodip",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Immortalized",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infantry",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infinity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Intergrade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Jigsaw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "MK.VII Liberty",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moon Scout",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moondash",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nebula",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nitro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Panoramic",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfox",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Recon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Refractrix",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reverie",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruination",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shellspire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Signature",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silhouette",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Songsteel",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Soulstrife",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Space Piercer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spectrum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spitfire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Starlit Odyssey",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Series",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Treat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tethered Realms",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wonderstallion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Yoonseul",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Phantom": [
+    {
+      "name": "9 Lives",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Abyssal",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aperture",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Artisan",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Avalanche",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Phantom Black",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Phantom Pink",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Phantom Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bolt",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bound",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestial",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2022",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2024",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Chromedek",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ChronoVoid",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Combat Crafts",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Composite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Daydreams",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doodle Buds",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doom Wing",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doombringer",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Emberclad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fortune's Hand",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Galleria",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Helix",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hieroscape",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hue Shift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infinity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kingdom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kohaku & Matsuba",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lightwave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Mystbloom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nanobreak",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nebula",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neo Frontier",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nocturnum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Orion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overlay",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Perch",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Piedra del Sol",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime 2.0",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Primordium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Protocol 781-A",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Crisis 001",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Entertainment System",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RDVR",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Recon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reverie",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruination",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sarmad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Serenity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Shellspire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silvanus",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Snowfall",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Solarex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Soulstrife",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spectrum",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spline",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Switchback",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tactiplay",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Task Force 809",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Team Ace",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tigris",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Topotek",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Undercity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 1",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 3",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Velocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Winterwunderland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Xenohunter",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Vandal": [
+    {
+      "name": ".EXE",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": ".SYS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aemondir",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Altitude",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Arcane",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aristocrat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ATLAS CMD",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Avalanche",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Vandal Blue",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Vandal Camo",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Vandal Gold",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Black.Market",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bubble Pop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Vandal Purple",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Vandal Red",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Vandal Yellow",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cavalier",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2021",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2023 Vandal Level 2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2023 Vandal Level 4",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Champions 2023",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ChronoVoid",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Comet",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Crimsonbeast",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cryostasis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "CYRAX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Depths",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ego",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Elderflame",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Endeavour",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Evori Dreamwings",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "EX.O",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Forsaken",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Guardrail",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hivemind",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Holomoku",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Horizon",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Immortalized",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Imperium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "KTAC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kuronami",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luna",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lycan's Bane",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "MK.VII Liberty",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monstrocity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nitro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "NO LIMITS",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nunca Olvidados",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Origin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Orion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overdrive",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Phaseguard",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prelude to Chaos",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Primordium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism II",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sakura",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sandswept",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sarmad",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Schema",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sensation",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silvanus",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "SplashX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Starlit Odyssey",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Storm Maw",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Team Ace",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tethered Realms",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Titanmail",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Torque",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Transition",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Valiant Hero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Venturi",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wasteland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Winterwunderland",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wonderstallion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "XERØFANG",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Ares": [
+    {
+      "name": "9 Lives",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/49/9_Lives_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711191832",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aquatica",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9d/Aquatica_Ares.png/revision/latest/scale-to-width-down/300?cb=20240305163625",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aristocrat",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8c/Aristocrat_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711192519",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bumble Brigade",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e5/Bumble_Brigade_Ares.png/revision/latest/scale-to-width-down/300?cb=20240625161545",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestial",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/03/Celestial_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711193142",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Digihex",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/99/Digihex_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711193810",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divine Swine",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8a/Divine_Swine_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711193858",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doodle Buds",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/be/Doodle_Buds_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711193925",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Endeavour",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/54/Endeavour_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711194318",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/ca/Gaia%27s_Vengeance_Ares.png/revision/latest/scale-to-width-down/300?cb=20231003161235",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Goldwing",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bb/Goldwing_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711195028",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hieroscape",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c8/Hieroscape_Ares.png/revision/latest/scale-to-width-down/300?cb=20250107193355",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Hivemind",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d3/Hivemind_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711195226",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infantry",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/56/Infantry_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711195555",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c3/Ion_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711195806",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Jigsaw",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c7/Jigsaw_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711200101",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/31/Magepunk_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711200745",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/cb/Minima_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711201119",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monstrocity",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/ea/Monstrocity_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711201230",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nebula",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/16/Nebula_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711201350",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nunca Olvidados",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c6/Nunca_Olvidados_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711201727",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Oni",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/69/Oni_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711201833",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Outpost",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/84/Outpost_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711202159",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfrog",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/POLYfrog_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711202326",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Premiere Collision",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fb/Premiere_Collision_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711202459",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/dd/Prism_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711202706",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rush",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/75/Rush_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711204132",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sakura",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a1/Sakura_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711204203",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels Of Light",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/da/Sentinels_Of_Light_Ares.png/revision/latest/scale-to-width-down/300?cb=20210720175610",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bc/Sentinels_of_Light_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711204356",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silhouette",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/99/Silhouette_Ares.png/revision/latest/scale-to-width-down/300?cb=20231031131100",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Singularity",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d5/Singularity_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711204638",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Snowfall",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/25/Snowfall_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711204821",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Space Piercer",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c7/Space_Piercer_Ares.png/revision/latest/scale-to-width-down/300?cb=20250624202414",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spitfire",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/de/Spitfire_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711205118",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Titanmail",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/93/Titanmail_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711210027",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Valiant Hero",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fa/Valiant_Hero_Ares.png/revision/latest/scale-to-width-down/300?cb=20231031131116",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 2",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c6/VALORANT_GO%21_Vol._2_Ares.png/revision/latest/scale-to-width-down/300?cb=20230711210143",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Yoonseul",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/66/Yoonseul_Ares.png/revision/latest/scale-to-width-down/300?cb=20240827165642",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Odin": [
+    {
+      "name": ".EXE",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f3/.EXE_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711191730",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aerosol",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/34/Aerosol_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711192155",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Altitude",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fc/Altitude_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711192230",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Odin Black",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/79/BlastX_Odin_Black.png/revision/latest/scale-to-width-down/300?cb=20230711192909",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Odin Pink",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/88/BlastX_Odin_Pink.png/revision/latest/scale-to-width-down/300?cb=20230711192913",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX Odin Yellow",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bd/BlastX_Odin_Yellow.png/revision/latest/scale-to-width-down/300?cb=20230711192917",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "BlastX",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/13/BlastX_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711192921",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Coalition Cobra",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/80/Coalition_Cobra_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711193500",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Comet",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/ca/Comet_Odin.png/revision/latest/scale-to-width-down/300?cb=20240430173654",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doom Wing",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d7/Doom_Wing_Odin.png/revision/latest/scale-to-width-down/300?cb=20250304182055",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doombringer",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/64/Doombringer_Odin.png/revision/latest/scale-to-width-down/300?cb=20241022162955",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Evori Dreamwings",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e9/Evori_Dreamwings_Odin.png/revision/latest/scale-to-width-down/300?cb=20240625161606",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fortune's Hand",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e7/Fortune%27s_Hand_Odin.png/revision/latest/scale-to-width-down/300?cb=20240305163634",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Freehand",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/46/Freehand_Odin.png/revision/latest/scale-to-width-down/300?cb=20230829125625",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Glitchpop_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711194921",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lightwave",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/25/Lightwave_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711200500",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Lycan's Bane",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Lycan%27s_Bane_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711200717",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nanobreak",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/0a/Nanobreak_Odin.png/revision/latest/scale-to-width-down/300?cb=20241022162924",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neo Frontier",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/2d/Neo_Frontier_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711201509",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neptune",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/1b/Neptune_Odin.png/revision/latest/scale-to-width-down/300?cb=20250219211932",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nitro",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/3e/Nitro_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711201633",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Orion",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/91/Orion_Odin.png/revision/latest/scale-to-width-down/300?cb=20231017154850",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prime 2.0",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/de/Prime_2.0_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711202701",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism III",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d2/Prism_III_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711202849",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/39/Reaver_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711203241",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver, EP 5",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Reaver%2C_EP_5_Odin.png/revision/latest/scale-to-width-down/300?cb=20220809131740",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rune Stone",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/79/Rune_Stone_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711204121",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Schema",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ad/Schema_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711204305",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sensation",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/31/Sensation_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711204335",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/81/Sentinels_of_Light_Odin.png/revision/latest/scale-to-width-down/300?cb=20231114172552",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/22/Smite_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711204800",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Solarex",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/56/Solarex_Odin.png/revision/latest/scale-to-width-down/300?cb=20250430170558",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/6d/Sovereign_Odin.png/revision/latest/scale-to-width-down/300?cb=20240326163825",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tactiplay",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/75/Tactiplay_Odin.png/revision/latest/scale-to-width-down/300?cb=20240109154204",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Topotek",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/98/Topotek_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711210105",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Xenohunter",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/70/Xenohunter_Odin.png/revision/latest/scale-to-width-down/300?cb=20230711210617",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Marshal": [
+    {
+      "name": "Artisan",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/28/Artisan_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711192651",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Avalanche",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f0/Avalanche_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711192721",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Black.Market",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/08/Black.Market_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711192824",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Chromedek",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f4/Chromedek_Marshal.png/revision/latest/scale-to-width-down/300?cb=20231114172546",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Coalition Cobra",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/56/Coalition_Cobra_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193447",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Composite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/53/Composite_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193509",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convergence",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/50/Convergence_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240625161555",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Couture",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d2/Couture_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193620",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Crimsonbeast",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5c/Crimsonbeast_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193645",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divine Swine",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/77/Divine_Swine_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193913",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doodle Buds",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f8/Doodle_Buds_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711193938",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Doom Wing",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/55/Doom_Wing_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250304182054",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Fiber Optic",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a9/Fiber_Optic_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240109154245",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Freehand",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/49/Freehand_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230829125625",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gaia's Vengeance",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c0/Gaia%27s_Vengeance_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711194552",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Galleria",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/78/Galleria_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711194652",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kuronami",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d1/Kuronami_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240109154310",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luna",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/6e/Luna_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711200601",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5a/Magepunk_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711200909",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e4/Minima_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250415174750",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Monarch",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d0/Monarch_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711201200",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moondash",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f2/Moondash_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711201339",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Neo Frontier",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a2/Neo_Frontier_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711201453",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nocturnum",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/0e/Nocturnum_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240827165617",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Perch",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ab/Perch_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250624202257",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "POLYfrog",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c6/POLYfrog_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711202330",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Premiere Collision",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/0b/Premiere_Collision_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711202520",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reverie",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/19/Reverie_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711203605",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ruin",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c5/Ruin_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711203938",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rune Stone",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/2b/Rune_Stone_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711204115",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Rupture",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a0/Rupture_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250624202413",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sandswept",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5a/Sandswept_Marshal.png/revision/latest/scale-to-width-down/300?cb=20231031131050",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Signature",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/0f/Signature_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711204541",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Songsteel",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5d/Songsteel_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711204901",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sovereign",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/91/Sovereign_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711205032",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spellbound",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Spellbound_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250430170653",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Switchback",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/6f/Switchback_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240416150240",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Series",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/93/Tacti-Series_Marshal.png/revision/latest/scale-to-width-down/300?cb=20240430173631",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Task Force 809",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7b/Task_Force_809_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711205712",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 3",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/22/VALORANT_GO%21_Vol._3_Marshal.png/revision/latest/scale-to-width-down/300?cb=20250610170841",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Venturi",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/1b/Venturi_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711210413",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Wasteland",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/cf/Wasteland_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711210432",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Winterwunderland",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/6/60/Winterwunderland_Marshal.png/revision/latest/scale-to-width-down/300?cb=20230711210539",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Operator": [
+    {
+      "name": "Aerosol",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Operator Blue",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Operator Camo",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe Operator Gold",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Blush",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cavalier",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Celestia",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Convex",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cryostasis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Daydreams",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Divergence",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Drips",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Elderflame",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Endeavour",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Forsaken",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Frequency",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Genesis",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Glitchpop",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Gravitational Uranium Neuroblaster",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Imperium",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Infantry",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Intergrade",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ion",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Iridian Thorn",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Kohaku & Matsuba",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "KTAC",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Libretto",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Luxe",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Magepunk",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Minima",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "MK.VII Liberty",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Mystbloom",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Nitro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Origin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prelude to Chaos",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Prism",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Radiant Entertainment System",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Reaver",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Red Alert",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Retrowave",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ronin",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Sentinels of Light",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Silvanus",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spitfire",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "SplashX",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Spline",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Striker",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tacti-Treat",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Team Ace",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tethered Realms",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tigris",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Tilde",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Torque",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Valiant Hero",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "VALORANT GO! Vol. 2",
+      "image_url": "",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Outlaw": [
+    {
+      "name": "Aperture",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/86/Aperture_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240910162923",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Aquatica",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/18/Aquatica_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240305163626",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Araxys",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c9/Araxys_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20241210223733",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "ATLAS CMD",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/df/ATLAS_CMD_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250730171946",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Bolt",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/7/7f/Bolt_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250402172942",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Outlaw Purple",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Byteshift_Outlaw_Purple.png/revision/latest/scale-to-width-down/300?cb=20250304182024",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Outlaw Red",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e6/Byteshift_Outlaw_Red.png/revision/latest/scale-to-width-down/300?cb=20250304182025",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift Outlaw Yellow",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/27/Byteshift_Outlaw_Yellow.png/revision/latest/scale-to-width-down/300?cb=20250304182025",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Byteshift",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/25/Byteshift_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250304182026",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Cloudweaver",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/c/c2/Cloudweaver_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240430173632",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Ego",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ae/Ego_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240109154221",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "EX.O",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a7/EX.O_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250107193344",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Holomoku",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b3/Holomoku_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240514190830",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Moon Scout",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4f/Moon_Scout_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250107193401",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Overlay",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d5/Overlay_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240827165630",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Phaseguard",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/1/1e/Phaseguard_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250624202330",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "PrismReloaded",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/4/43/PrismReloaded_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240109154341",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "RGX 11z Pro",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/0/05/RGX_11z_Pro_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20240716162846",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Smite",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8a/Smite_Outlaw.png/revision/latest/scale-to-width-down/300?cb=20250304182211",
+      "tier": "",
+      "bundle": ""
+    }
+  ],
+  "Melee": [
+    {
+      "name": ".SYS",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f8/.SYS_Melee.png/revision/latest/scale-to-width-down/300?cb=20240416151343",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Imperium",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/b/bf/Beta_Imperium_Melee.png/revision/latest/scale-to-width-down/300?cb=20200408164627",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Luxe",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/2/23/Beta_Luxe_Melee.png/revision/latest/scale-to-width-down/300?cb=20200408164518",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Beta Reaver",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/33/Beta_Reaver_Melee.png/revision/latest/scale-to-width-down/300?cb=20200408164520",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Outpost",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9c/Outpost_Melee.png/revision/latest/scale-to-width-down/300?cb=20230711202219",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Personal Administrative Melee Unit",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/e/e5/Personal_Administrative_Melee_Unit.png/revision/latest/scale-to-width-down/300?cb=20230711202234",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Songsteel",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/3/37/Songsteel_Melee.png/revision/latest/scale-to-width-down/300?cb=20210520150421",
+      "tier": "",
+      "bundle": ""
+    },
+    {
+      "name": "Waveform",
+      "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8b/Waveform_Melee.png/revision/latest/scale-to-width-down/300?cb=20240416152130",
+      "tier": "",
+      "bundle": ""
+    }
+  ]
+}

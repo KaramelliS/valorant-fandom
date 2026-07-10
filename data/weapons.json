@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Bandit",
+    "url": "https://valorant.fandom.com/wiki/Bandit",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/1f/Bandit.png/revision/latest/scale-to-width-down/500?cb=20260106171831",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "5.1 rounds/sec",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "1.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Classic",
+    "url": "https://valorant.fandom.com/wiki/Classic",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/57/Classic.png/revision/latest/scale-to-width-down/500?cb=20230711205256",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "2.22 bursts/sec",
+      "run_speed": "5.73 m/sec",
+      "equip_speed": "",
+      "reload_speed": "1.75 sec",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Frenzy",
+    "url": "https://valorant.fandom.com/wiki/Frenzy",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f1/Frenzy.png/revision/latest/scale-to-width-down/500?cb=20230711205257",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "10 rounds/sec",
+      "run_speed": "5.73 m/sec",
+      "equip_speed": "",
+      "reload_speed": "1.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Ghost",
+    "url": "https://valorant.fandom.com/wiki/Ghost",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ab/Ghost.png/revision/latest/scale-to-width-down/500?cb=20230711205257",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "6.75 rounds/sec",
+      "run_speed": "5.73 m/sec",
+      "equip_speed": "",
+      "reload_speed": "1.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Sheriff",
+    "url": "https://valorant.fandom.com/wiki/Sheriff",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/3/3e/Sheriff.png/revision/latest/scale-to-width-down/500?cb=20230711205303",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "4 rounds/sec",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.25 sec",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Shorty",
+    "url": "https://valorant.fandom.com/wiki/Shorty",
+    "category": "Sidearm",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/7/77/Shorty.png/revision/latest/scale-to-width-down/500?cb=20230711205304",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "3 rounds/sec",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "1.75",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Spectre",
+    "url": "https://valorant.fandom.com/wiki/Spectre",
+    "category": "SMG",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Spectre.png/revision/latest/scale-to-width-down/500?cb=20230711205305",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "90% (12 rounds/sec)",
+      "run_speed": "5.73 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.25 sec",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Stinger",
+    "url": "https://valorant.fandom.com/wiki/Stinger",
+    "category": "SMG",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b6/Stinger.png/revision/latest/scale-to-width-down/500?cb=20230711205306",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "52% (8.471 rounds/sec) 2.118 bursts/sec Bullets in 1 burst fired at 18 rounds/sec",
+      "run_speed": "5.73 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.25 sec",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Bucky",
+    "url": "https://valorant.fandom.com/wiki/Bucky",
+    "category": "Shotgun",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ac/Aemondir_Bucky.png/revision/latest/scale-to-width-down/500?cb=20240621121556",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "1.1 rounds/sec",
+      "run_speed": "5.06 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec (0.5 per shell)",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Judge",
+    "url": "https://valorant.fandom.com/wiki/Judge",
+    "category": "Shotgun",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/8/8a/Judge.png/revision/latest/scale-to-width-down/500?cb=20230711205259",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "3.5 rounds/sec",
+      "run_speed": "5.06 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.2 sec",
+      "magazine_size": "",
+      "wall_penetration": "Low",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Bulldog",
+    "url": "https://valorant.fandom.com/wiki/Bulldog",
+    "category": "Rifle",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/0/07/Bulldog.png/revision/latest/scale-to-width-down/500?cb=20230711205255",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "63.16% (6.316 rounds/sec) 2.105 bursts/sec Bullets in 1 burst fired at 13.333 rounds/sec",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Guardian",
+    "url": "https://valorant.fandom.com/wiki/Guardian",
+    "category": "Rifle",
+    "description": "",
+    "cost": "",
+    "image_url": null,
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "100% (5.25 rounds/sec)",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Phantom",
+    "url": "https://valorant.fandom.com/wiki/Phantom",
+    "category": "Rifle",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Phantom_Comparison.png/revision/latest/scale-to-width-down/500?cb=20220329073747",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "90% (9.9 rounds/sec) 594 RPM",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Vandal",
+    "url": "https://valorant.fandom.com/wiki/Vandal",
+    "category": "Rifle",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/56/Vandal.png/revision/latest/scale-to-width-down/500?cb=20230711205307",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "90% (8.775 rds/sec)",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Ares",
+    "url": "https://valorant.fandom.com/wiki/Ares",
+    "category": "Machine Gun",
+    "description": "",
+    "cost": "",
+    "image_url": null,
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "100% (13 rounds/sec)",
+      "run_speed": "5.13 m/sec",
+      "equip_speed": "",
+      "reload_speed": "3.25 sec",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Odin",
+    "url": "https://valorant.fandom.com/wiki/Odin",
+    "category": "Machine Gun",
+    "description": "",
+    "cost": "",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/58/Odin.png/revision/latest/scale-to-width-down/500?cb=20230711205301",
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "130% (15.6 rounds/sec)",
+      "run_speed": "5.13 m/sec",
+      "equip_speed": "",
+      "reload_speed": "5 sec",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Marshal",
+    "url": "https://valorant.fandom.com/wiki/Marshal",
+    "category": "Sniper",
+    "description": "",
+    "cost": "",
+    "image_url": null,
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "80% (1.2 rounds/sec)",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.5 sec (0.5 per bullet)",
+      "magazine_size": "",
+      "wall_penetration": "Medium",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Operator",
+    "url": "https://valorant.fandom.com/wiki/Operator",
+    "category": "Sniper",
+    "description": "",
+    "cost": "",
+    "image_url": null,
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "100% (0.6 rounds/sec)",
+      "run_speed": "5.13 m/sec",
+      "equip_speed": "",
+      "reload_speed": "3.7 sec",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  },
+  {
+    "name": "Outlaw",
+    "url": "https://valorant.fandom.com/wiki/Outlaw",
+    "category": "Sniper",
+    "description": "",
+    "cost": "",
+    "image_url": null,
+    "killfeed_icon_url": null,
+    "stats": {
+      "fire_rate": "100% (2.75 rounds/sec)",
+      "run_speed": "5.4 m/sec",
+      "equip_speed": "",
+      "reload_speed": "2.3 sec (1 bullet) 3.8 sec (2 bullets)",
+      "magazine_size": "",
+      "wall_penetration": "High",
+      "damage_ranges": []
+    },
+    "skins": []
+  }
+]

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valorant Fandom — Demo</title>
+<style>
+  :root {
+    --bg: #0f1923;
+    --card: #1a242d;
+    --text: #e8e8e0;
+    --muted: #7b8a9b;
+    --red: #ff4655;
+    --red-glow: #ff465544;
+    --border: #2a3540;
+    --radius: 8px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    min-height: 100vh;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 24px 32px;
+    display: flex; align-items: center; gap: 16px;
+  }
+  header h1 { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.5px; }
+  header h1 span { color: var(--red); }
+  header p { color: var(--muted); font-size: 0.85rem; }
+  main { padding: 32px; max-width: 1400px; margin: 0 auto; }
+  .tabs { display: flex; gap: 4px; margin-bottom: 24px; }
+  .tab {
+    padding: 10px 24px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.2s;
+  }
+  .tab:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+  .tab:last-child { border-radius: 0 var(--radius) var(--radius) 0; }
+  .tab.active { background: var(--red); color: white; border-color: var(--red); }
+  .tab:hover:not(.active) { border-color: var(--red); color: var(--text); }
+  .stats { display: flex; gap: 16px; margin-bottom: 24px; }
+  .stat {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 24px;
+  }
+  .stat-value { font-size: 1.5rem; font-weight: 700; color: var(--red); }
+  .stat-label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .card:hover { border-color: var(--red); box-shadow: 0 0 20px var(--red-glow); }
+  .card img {
+    width: 100%;
+    aspect-ratio: 16/10;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    background: var(--bg);
+  }
+  .card h3 { font-size: 0.9rem; font-weight: 600; }
+  .card .sub { font-size: 0.75rem; color: var(--muted); }
+  .detail-panel {
+    position: fixed; top: 0; right: -480px; width: 440px; height: 100vh;
+    background: var(--card); border-left: 1px solid var(--border);
+    padding: 32px; overflow-y: auto; transition: right 0.3s;
+    z-index: 100;
+  }
+  .detail-panel.open { right: 0; }
+  .detail-panel .close {
+    position: absolute; top: 16px; right: 16px;
+    background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer;
+  }
+  .detail-panel img { width: 100%; border-radius: var(--radius); margin-bottom: 16px; }
+  .detail-panel h2 { font-size: 1.4rem; margin-bottom: 4px; }
+  .detail-panel .role { color: var(--red); font-weight: 600; margin-bottom: 12px; }
+  .detail-panel p { font-size: 0.85rem; color: var(--muted); line-height: 1.6; margin-bottom: 16px; }
+  .detail-panel .abi { background: var(--bg); border-radius: var(--radius); padding: 10px 14px; margin-bottom: 8px; }
+  .detail-panel .abi .slot { font-size: 0.7rem; color: var(--red); text-transform: uppercase; letter-spacing: 1px; }
+  .detail-panel .abi .name { font-size: 0.9rem; font-weight: 600; }
+  .loading { text-align: center; padding: 48px; color: var(--muted); }
+  .spinner { width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--red); border-radius: 50%; animation: spin 0.6s linear infinite; margin: 0 auto 16px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 99; display: none; }
+  .overlay.show { display: block; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>VALORANT<span>//</span>FANDOM</h1>
+    <p>Agents · Weapons · Maps · Skins</p>
+  </div>
+</header>
+
+<main>
+  <div class="tabs">
+    <button class="tab active" data-tab="agents">Agents</button>
+    <button class="tab" data-tab="weapons">Weapons</button>
+    <button class="tab" data-tab="maps">Maps</button>
+    <button class="tab" data-tab="skins">Skins</button>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div class="grid" id="grid"></div>
+  <div class="loading" id="loading"><div class="spinner"></div>Loading...</div>
+</main>
+
+<div class="overlay" id="overlay"></div>
+<div class="detail-panel" id="detail"></div>
+
+<script src="src/valorant-fandom.js"></script>
+<script>
+  var VF = ValorantFandom;
+  var grid = document.getElementById('grid');
+  var stats = document.getElementById('stats');
+  var loading = document.getElementById('loading');
+  var detail = document.getElementById('detail');
+  var overlay = document.getElementById('overlay');
+  var currentTab = 'agents';
+
+  function showLoading() { loading.style.display = 'block'; grid.innerHTML = ''; stats.innerHTML = ''; }
+  function hideLoading() { loading.style.display = 'none'; }
+
+  function renderStats(data) {
+    stats.innerHTML = '<div class="stat"><div class="stat-value">' + data.length + '</div><div class="stat-label">Total</div></div>';
+  }
+
+  function renderAgents() {
+    showLoading();
+    VF.getAgents().then(function(agents) {
+      hideLoading();
+      renderStats(agents);
+      grid.innerHTML = agents.map(function(a) {
+        return '<div class="card" onclick="showAgent(\'' + a.name + '\')">' +
+          (a.full_portrait_url ? '<img src="' + a.full_portrait_url + '" alt="' + a.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted)">No img</div>') +
+          '<h3>' + a.name + '</h3>' +
+          '<div class="sub">' + a.role + '</div>' +
+        '</div>';
+      }).join('');
+    });
+  }
+
+  function renderWeapons() {
+    showLoading();
+    VF.getWeapons().then(function(weapons) {
+      hideLoading();
+      renderStats(weapons);
+      grid.innerHTML = weapons.map(function(w) {
+        return '<div class="card" onclick="showWeapon(\'' + w.name + '\')">' +
+          (w.image_url ? '<img src="' + w.image_url + '" alt="' + w.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted)">No img</div>') +
+          '<h3>' + w.name + '</h3>' +
+          '<div class="sub">' + w.category + (w.cost ? ' · ' + w.cost : '') + '</div>' +
+        '</div>';
+      }).join('');
+    });
+  }
+
+  function renderMaps() {
+    showLoading();
+    VF.getMaps().then(function(maps) {
+      hideLoading();
+      renderStats(maps);
+      grid.innerHTML = maps.map(function(m) {
+        return '<div class="card" onclick="showMap(\'' + m.name + '\')">' +
+          (m.image_url ? '<img src="' + m.image_url + '" alt="' + m.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted)">No img</div>') +
+          '<h3>' + m.name + '</h3>' +
+          '<div class="sub">' + (m.location || '') + '</div>' +
+        '</div>';
+      }).join('');
+    });
+  }
+
+  function renderSkins() {
+    showLoading();
+    VF.getSkins().then(function(all) {
+      hideLoading();
+      var weapons = Object.keys(all);
+      var total = 0;
+      weapons.forEach(function(w) { total += all[w].length; });
+      stats.innerHTML = '<div class="stat"><div class="stat-value">' + total + '</div><div class="stat-label">Skins</div></div>' +
+        '<div class="stat"><div class="stat-value">' + weapons.length + '</div><div class="stat-label">Weapons</div></div>';
+
+      var html = '';
+      weapons.forEach(function(w) {
+        html += '<div style="grid-column:1/-1;margin-top:16px;margin-bottom:4px;font-weight:700;font-size:1rem;color:var(--red)">' + w + ' <span style="color:var(--muted);font-weight:400;font-size:0.8rem">(' + all[w].length + ' skins)</span></div>';
+        all[w].slice(0, 8).forEach(function(s) {
+          html += '<div class="card">' +
+            (s.image_url ? '<img src="' + s.image_url + '" alt="' + s.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px"></div>') +
+            '<h3 style="font-size:0.75rem">' + s.name + '</h3>' +
+          '</div>';
+        });
+      });
+      grid.style.display = 'block';
+      grid.innerHTML = html;
+    });
+  }
+
+  function showAgent(name) {
+    VF.getAgent(name).then(function(a) {
+      detail.innerHTML = '<button class="close" onclick="closeDetail()">x</button>' +
+        (a.full_portrait_url ? '<img src="' + a.full_portrait_url + '" alt="' + a.name + '">' : '') +
+        '<h2>' + a.name + '</h2>' +
+        '<div class="role">' + a.role + '</div>' +
+        '<p>' + a.description + '</p>' +
+        (a.abilities && a.abilities.length ? '<h3 style="margin-bottom:8px;font-size:0.9rem;text-transform:uppercase;letter-spacing:1px;color:var(--muted)">Abilities</h3>' + a.abilities.map(function(ab) {
+          return '<div class="abi"><div class="slot">' + ab.slot + '</div><div class="name">' + ab.name + '</div></div>';
+        }).join('') : '') +
+        (a.origin ? '<p style="font-size:0.8rem"><strong>Origin:</strong> ' + a.origin + '</p>' : '') +
+        (a.release_patch ? '<p style="font-size:0.8rem"><strong>Patch:</strong> ' + a.release_patch + '</p>' : '');
+      openDetail();
+    });
+  }
+
+  function showWeapon(name) {
+    VF.getWeapon(name).then(function(w) {
+      detail.innerHTML = '<button class="close" onclick="closeDetail()">x</button>' +
+        (w.image_url ? '<img src="' + w.image_url + '" alt="' + w.name + '">' : '') +
+        '<h2>' + w.name + '</h2>' +
+        '<div class="role">' + w.category + (w.cost ? ' · ' + w.cost : '') + '</div>' +
+        '<p>' + w.description + '</p>' +
+        '<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:0.8rem">' +
+          (w.stats.fire_rate ? '<div><span style="color:var(--muted)">Fire Rate</span><br>' + w.stats.fire_rate + '</div>' : '') +
+          (w.stats.magazine_size ? '<div><span style="color:var(--muted)">Magazine</span><br>' + w.stats.magazine_size + '</div>' : '') +
+          (w.stats.reload_speed ? '<div><span style="color:var(--muted)">Reload</span><br>' + w.stats.reload_speed + '</div>' : '') +
+          (w.stats.wall_penetration ? '<div><span style="color:var(--muted)">Wall Pen</span><br>' + w.stats.wall_penetration + '</div>' : '') +
+          (w.stats.run_speed ? '<div><span style="color:var(--muted)">Run Speed</span><br>' + w.stats.run_speed + '</div>' : '') +
+          (w.stats.equip_speed ? '<div><span style="color:var(--muted)">Equip</span><br>' + w.stats.equip_speed + '</div>' : '') +
+        '</div>';
+      openDetail();
+    });
+  }
+
+  function showMap(name) {
+    VF.getMap(name).then(function(m) {
+      detail.innerHTML = '<button class="close" onclick="closeDetail()">x</button>' +
+        (m.image_url ? '<img src="' + m.image_url + '" alt="' + m.name + '">' : '') +
+        '<h2>' + m.name + '</h2>' +
+        '<p>' + m.description + '</p>' +
+        (m.location ? '<p style="font-size:0.8rem"><strong>Location:</strong> ' + m.location + '</p>' : '') +
+        (m.release_patch ? '<p style="font-size:0.8rem"><strong>Patch:</strong> ' + m.release_patch + '</p>' : '');
+      openDetail();
+    });
+  }
+
+  function openDetail() { detail.classList.add('open'); overlay.classList.add('show'); }
+  function closeDetail() { detail.classList.remove('open'); overlay.classList.remove('show'); }
+
+  document.querySelectorAll('.tab').forEach(function(t) {
+    t.addEventListener('click', function() {
+      document.querySelectorAll('.tab').forEach(function(x) { x.classList.remove('active'); });
+      t.classList.add('active');
+      currentTab = t.dataset.tab;
+      grid.style.display = 'grid';
+      if (currentTab === 'agents') renderAgents();
+      else if (currentTab === 'weapons') renderWeapons();
+      else if (currentTab === 'maps') renderMaps();
+      else if (currentTab === 'skins') renderSkins();
+    });
+  });
+
+  overlay.addEventListener('click', closeDetail);
+
+  renderAgents();
+</script>
+
+</body>
+</html>
