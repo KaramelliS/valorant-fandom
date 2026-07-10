@@ -5,7 +5,7 @@ Valorant Fandom Wiki verileri — 3 kullanim sekli:
 ## 1. HTML'e direkt import
 
 ```html
-<script src="https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js"></script>
+<script src="https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js?v=2"></script>
 <script>
   ValorantFandom.getAgents().then(function(agents) {
     console.log(agents); // 29 ajan
