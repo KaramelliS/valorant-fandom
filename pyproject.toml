@@ -29,8 +29,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/hzKamburga/valorant-fandom"
-Repository = "https://github.com/hzKamburga/valorant-fandom"
+Homepage = "https://github.com/KaramelliS/valorant-fandom"
+Repository = "https://github.com/KaramelliS/valorant-fandom"
 
 [tool.setuptools.packages.find]
 where = ["."]

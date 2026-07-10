@@ -8,7 +8,7 @@
   "files": ["dist/", "data/"],
   "keywords": ["valorant", "fandom", "wiki", "agents", "weapons", "skins", "maps"],
   "license": "MIT",
-  "repository": "github:hzKamburga/valorant-fandom",
+  "repository": "github:KaramelliS/valorant-fandom",
   "scripts": {
     "build": "uglifyjs src/valorant-fandom.js -o dist/valorant-fandom.min.js -c -m",
     "prepublishOnly": "npm run build"
