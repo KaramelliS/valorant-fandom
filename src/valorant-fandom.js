@@ -57,6 +57,28 @@
     });
   }
 
+  function getRanks(tier) {
+    return _fetch(BASE_URL + '/ranks.json').then(function(ranks) {
+      if (tier) {
+        return ranks.filter(function(r) {
+          return r.tier.toLowerCase() === tier.toLowerCase();
+        });
+      }
+      return ranks;
+    });
+  }
+
+  function getRank(name) {
+    return getRanks().then(function(ranks) {
+      var q = name.toLowerCase().replace(/\s+/g, ' ').trim();
+      var found = ranks.filter(function(r) {
+        return r.name.toLowerCase() === q ||
+          r.file.replace(/\.png$/, '').toLowerCase() === q.replace(/[_\s]/g, '_');
+      });
+      return found[0] || null;
+    });
+  }
+
   function getAgent(name) {
     return getAgents().then(function(agents) {
       var found = agents.filter(function(a) {
@@ -120,6 +142,8 @@
     getWeapons: getWeapons,
     getMaps: getMaps,
     getSkins: getSkins,
+    getRanks: getRanks,
+    getRank: getRank,
     getAgent: getAgent,
     getWeapon: getWeapon,
     getMap: getMap,

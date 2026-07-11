@@ -123,6 +123,7 @@
     <button class="tab active" data-tab="agents">Agents</button>
     <button class="tab" data-tab="weapons">Weapons</button>
     <button class="tab" data-tab="maps">Maps</button>
+    <button class="tab" data-tab="ranks">Ranks</button>
     <button class="tab" data-tab="skins">Skins</button>
   </div>
 
@@ -134,7 +135,7 @@
 <div class="overlay" id="overlay"></div>
 <div class="detail-panel" id="detail"></div>
 
-<script src="dist/valorant-fandom.min.js?v=3"></script>
+<script src="dist/valorant-fandom.min.js?v=4"></script>
 <script>
   var VF = ValorantFandom;
   var grid = document.getElementById('grid');
@@ -199,7 +200,33 @@
     });
   }
 
-  function renderSkins() {
+  function renderRanks() {
+    showLoading();
+    VF.getRanks().then(function(ranks) {
+      hideLoading();
+      var tiers = ['Iron','Bronze','Silver','Gold','Platinum','Diamond','Ascendant','Immortal','Radiant'];
+      stats.innerHTML = '<div class="stat"><div class="stat-value">' + ranks.length + '</div><div class="stat-label">Ranks</div></div>' +
+        '<div class="stat"><div class="stat-value">' + tiers.length + '</div><div class="stat-label">Tiers</div></div>';
+      var byTier = {};
+      ranks.forEach(function(r) { if (!byTier[r.tier]) byTier[r.tier] = []; byTier[r.tier].push(r); });
+      var html = '';
+      tiers.forEach(function(t) {
+        if (!byTier[t]) return;
+        html += '<div style="grid-column:1/-1;margin-top:16px;margin-bottom:4px;font-weight:700;font-size:1rem;color:var(--red)">' + t + '</div>';
+        byTier[t].forEach(function(r) {
+          html += '<div class="card" onclick="showRank(\'' + r.name.replace(/'/g,"\\'") + '\')" style="text-align:center">' +
+            '<img src="' + r.image_url + '" alt="' + r.name + '" loading="lazy" style="object-fit:contain;aspect-ratio:auto;padding:8px">' +
+            '<h3>' + r.name + '</h3>' +
+            '<div class="sub">' + r.tier + '</div>' +
+          '</div>';
+        });
+      });
+      grid.style.display = 'grid';
+      grid.innerHTML = html;
+    });
+  }
+
+
     showLoading();
     VF.getSkins().then(function(all) {
       hideLoading();
@@ -298,6 +325,26 @@
     });
   }
 
+  function showRank(name) {
+    VF.getRank(name).then(function(r) {
+      if (!r) return;
+      detail.innerHTML = '<button class="close" onclick="closeDetail()">x</button>' +
+        '<div style="text-align:center;margin-bottom:16px"><img src="' + r.image_url + '" alt="' + r.name + '" style="width:120px;height:120px;object-fit:contain;margin:0 auto"></div>' +
+        '<h2 style="text-align:center">' + r.name + '</h2>' +
+        '<div class="role" style="text-align:center">' + r.tier + '</div>' +
+        '<div style="background:var(--bg);border-radius:var(--radius);padding:10px 14px;margin-bottom:12px;font-family:monospace;font-size:0.7rem;word-break:break-all;color:var(--muted)">' + r.image_url + '</div>' +
+        '<button id="rankCopyBtn" style="width:100%;background:var(--red);color:white;border:none;border-radius:var(--radius);padding:10px;cursor:pointer;font-weight:600" onclick="copyRankUrl(\'' + r.image_url + '\')">Copy Image URL</button>';
+      openDetail();
+    });
+  }
+
+  function copyRankUrl(url) {
+    navigator.clipboard.writeText(url).then(function() {
+      var b = document.getElementById('rankCopyBtn');
+      b.innerText = 'Copied!'; setTimeout(function() { b.innerText = 'Copy Image URL'; }, 1500);
+    });
+  }
+
   function openDetail() { detail.classList.add('open'); overlay.classList.add('show'); }
   function closeDetail() { detail.classList.remove('open'); overlay.classList.remove('show'); }
 
@@ -310,6 +357,7 @@
       if (currentTab === 'agents') renderAgents();
       else if (currentTab === 'weapons') renderWeapons();
       else if (currentTab === 'maps') renderMaps();
+      else if (currentTab === 'ranks') renderRanks();
       else if (currentTab === 'skins') renderSkins();
     });
   });

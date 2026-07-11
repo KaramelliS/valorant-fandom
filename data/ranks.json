@@ -1,102 +1,202 @@
 [
   {
-    "name": "Iron_1",
-    "file": "Iron_1.png"
+    "name": "Iron 1",
+    "tier": "Iron",
+    "tier_index": 0,
+    "number": 1,
+    "file": "Iron_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Iron_1.png"
   },
   {
-    "name": "Iron_2",
-    "file": "Iron_2.png"
+    "name": "Iron 2",
+    "tier": "Iron",
+    "tier_index": 0,
+    "number": 2,
+    "file": "Iron_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Iron_2.png"
   },
   {
-    "name": "Iron_3",
-    "file": "Iron_3.png"
+    "name": "Iron 3",
+    "tier": "Iron",
+    "tier_index": 0,
+    "number": 3,
+    "file": "Iron_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Iron_3.png"
   },
   {
-    "name": "Bronze_1",
-    "file": "Bronze_1.png"
+    "name": "Bronze 1",
+    "tier": "Bronze",
+    "tier_index": 1,
+    "number": 1,
+    "file": "Bronze_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Bronze_1.png"
   },
   {
-    "name": "Bronze_2",
-    "file": "Bronze_2.png"
+    "name": "Bronze 2",
+    "tier": "Bronze",
+    "tier_index": 1,
+    "number": 2,
+    "file": "Bronze_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Bronze_2.png"
   },
   {
-    "name": "Bronze_3",
-    "file": "Bronze_3.png"
+    "name": "Bronze 3",
+    "tier": "Bronze",
+    "tier_index": 1,
+    "number": 3,
+    "file": "Bronze_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Bronze_3.png"
   },
   {
-    "name": "Silver_1",
-    "file": "Silver_1.png"
+    "name": "Silver 1",
+    "tier": "Silver",
+    "tier_index": 2,
+    "number": 1,
+    "file": "Silver_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Silver_1.png"
   },
   {
-    "name": "Silver_2",
-    "file": "Silver_2.png"
+    "name": "Silver 2",
+    "tier": "Silver",
+    "tier_index": 2,
+    "number": 2,
+    "file": "Silver_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Silver_2.png"
   },
   {
-    "name": "Silver_3",
-    "file": "Silver_3.png"
+    "name": "Silver 3",
+    "tier": "Silver",
+    "tier_index": 2,
+    "number": 3,
+    "file": "Silver_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Silver_3.png"
   },
   {
-    "name": "Gold_1",
-    "file": "Gold_1.png"
+    "name": "Gold 1",
+    "tier": "Gold",
+    "tier_index": 3,
+    "number": 1,
+    "file": "Gold_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Gold_1.png"
   },
   {
-    "name": "Gold_2",
-    "file": "Gold_2.png"
+    "name": "Gold 2",
+    "tier": "Gold",
+    "tier_index": 3,
+    "number": 2,
+    "file": "Gold_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Gold_2.png"
   },
   {
-    "name": "Gold_3",
-    "file": "Gold_3.png"
+    "name": "Gold 3",
+    "tier": "Gold",
+    "tier_index": 3,
+    "number": 3,
+    "file": "Gold_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Gold_3.png"
   },
   {
-    "name": "Platinum_1",
-    "file": "Platinum_1.png"
+    "name": "Platinum 1",
+    "tier": "Platinum",
+    "tier_index": 4,
+    "number": 1,
+    "file": "Platinum_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Platinum_1.png"
   },
   {
-    "name": "Platinum_2",
-    "file": "Platinum_2.png"
+    "name": "Platinum 2",
+    "tier": "Platinum",
+    "tier_index": 4,
+    "number": 2,
+    "file": "Platinum_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Platinum_2.png"
   },
   {
-    "name": "Platinum_3",
-    "file": "Platinum_3.png"
+    "name": "Platinum 3",
+    "tier": "Platinum",
+    "tier_index": 4,
+    "number": 3,
+    "file": "Platinum_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Platinum_3.png"
   },
   {
-    "name": "Diamond_1",
-    "file": "Diamond_1.png"
+    "name": "Diamond 1",
+    "tier": "Diamond",
+    "tier_index": 5,
+    "number": 1,
+    "file": "Diamond_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Diamond_1.png"
   },
   {
-    "name": "Diamond_2",
-    "file": "Diamond_2.png"
+    "name": "Diamond 2",
+    "tier": "Diamond",
+    "tier_index": 5,
+    "number": 2,
+    "file": "Diamond_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Diamond_2.png"
   },
   {
-    "name": "Diamond_3",
-    "file": "Diamond_3.png"
+    "name": "Diamond 3",
+    "tier": "Diamond",
+    "tier_index": 5,
+    "number": 3,
+    "file": "Diamond_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Diamond_3.png"
   },
   {
-    "name": "Ascendant_1",
-    "file": "Ascendant_1.png"
+    "name": "Ascendant 1",
+    "tier": "Ascendant",
+    "tier_index": 6,
+    "number": 1,
+    "file": "Ascendant_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Ascendant_1.png"
   },
   {
-    "name": "Ascendant_2",
-    "file": "Ascendant_2.png"
+    "name": "Ascendant 2",
+    "tier": "Ascendant",
+    "tier_index": 6,
+    "number": 2,
+    "file": "Ascendant_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Ascendant_2.png"
   },
   {
-    "name": "Ascendant_3",
-    "file": "Ascendant_3.png"
+    "name": "Ascendant 3",
+    "tier": "Ascendant",
+    "tier_index": 6,
+    "number": 3,
+    "file": "Ascendant_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Ascendant_3.png"
   },
   {
-    "name": "Immortal_1",
-    "file": "Immortal_1.png"
+    "name": "Immortal 1",
+    "tier": "Immortal",
+    "tier_index": 7,
+    "number": 1,
+    "file": "Immortal_1.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Immortal_1.png"
   },
   {
-    "name": "Immortal_2",
-    "file": "Immortal_2.png"
+    "name": "Immortal 2",
+    "tier": "Immortal",
+    "tier_index": 7,
+    "number": 2,
+    "file": "Immortal_2.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Immortal_2.png"
   },
   {
-    "name": "Immortal_3",
-    "file": "Immortal_3.png"
+    "name": "Immortal 3",
+    "tier": "Immortal",
+    "tier_index": 7,
+    "number": 3,
+    "file": "Immortal_3.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Immortal_3.png"
   },
   {
     "name": "Radiant",
-    "file": "Radiant.png"
+    "tier": "Radiant",
+    "tier_index": 8,
+    "number": 0,
+    "file": "Radiant.png",
+    "image_url": "https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Radiant.png"
   }
 ]
