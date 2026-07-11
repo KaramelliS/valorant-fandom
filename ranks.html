@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valorant Ranks — Icon Picker</title>
+<style>
+  :root {
+    --bg: #0f1923; --card: #1a242d; --text: #e8e8e0; --muted: #7b8a9b;
+    --red: #ff4655; --red-glow: #ff465544; --border: #2a3540; --radius: 8px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh;
+  }
+  header { border-bottom: 1px solid var(--border); padding: 24px 32px; }
+  header h1 { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.5px; }
+  header h1 span { color: var(--red); }
+  header p { color: var(--muted); font-size: 0.85rem; margin-top: 4px; }
+  main { padding: 32px; max-width: 1100px; margin: 0 auto; }
+  .tiers { display: flex; flex-direction: column; gap: 28px; }
+  .tier-row h2 {
+    font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
+    margin-bottom: 12px; color: var(--muted);
+  }
+  .tier-cards { display: flex; gap: 12px; flex-wrap: wrap; }
+  .rcard {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px; cursor: pointer; transition: all 0.2s; width: 120px; text-align: center;
+  }
+  .rcard:hover { border-color: var(--red); box-shadow: 0 0 20px var(--red-glow); transform: translateY(-2px); }
+  .rcard img { width: 64px; height: 64px; object-fit: contain; margin-bottom: 8px; }
+  .rcard .rname { font-size: 0.8rem; font-weight: 600; }
+  .modal {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 100;
+    display: none; align-items: center; justify-content: center; padding: 24px;
+  }
+  .modal.show { display: flex; }
+  .modal-box {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 32px; max-width: 440px; width: 100%; text-align: center;
+  }
+  .modal-box img { width: 96px; height: 96px; object-fit: contain; margin-bottom: 16px; }
+  .modal-box h3 { font-size: 1.2rem; margin-bottom: 4px; }
+  .modal-box .tier { color: var(--red); font-size: 0.85rem; margin-bottom: 20px; }
+  .urlbox {
+    background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 10px 12px; font-size: 0.75rem; color: var(--muted); text-align: left;
+    word-break: break-all; margin-bottom: 12px; font-family: monospace;
+  }
+  .copybtn {
+    background: var(--red); color: white; border: none; border-radius: var(--radius);
+    padding: 10px 24px; cursor: pointer; font-weight: 600; font-size: 0.9rem; width: 100%;
+  }
+  .copybtn:hover { opacity: 0.9; }
+  .close {
+    position: absolute; top: 16px; right: 20px; background: none; border: none;
+    color: var(--text); font-size: 1.5rem; cursor: pointer;
+  }
+  .modal-wrap { position: relative; }
+  .loading { text-align: center; padding: 48px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>VALORANT<span>//</span>RANKS</h1>
+  <p>Select your rank to get a fast image URL — no server needed.</p>
+</header>
+
+<main>
+  <div class="tiers" id="tiers"><div class="loading">Loading ranks...</div></div>
+</main>
+
+<div class="modal" id="modal">
+  <div class="modal-wrap">
+    <button class="close" onclick="closeModal()">&times;</button>
+    <div class="modal-box" id="modalBox"></div>
+  </div>
+</div>
+
+<script>
+  var RAW = 'https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/';
+  var TIER_ORDER = ['Iron','Bronze','Silver','Gold','Platinum','Diamond','Ascendant','Immortal','Radiant'];
+
+  fetch('https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/ranks.json')
+    .then(function(r){ return r.json(); })
+    .then(function(ranks){
+      var grouped = {};
+      ranks.forEach(function(rk){
+        var base = rk.name.replace(/_[123]$/, '');
+        if (rk.name === 'Radiant') base = 'Radiant';
+        if (!grouped[base]) grouped[base] = [];
+        grouped[base].push(rk);
+      });
+      var html = '';
+      TIER_ORDER.forEach(function(tier){
+        if (!grouped[tier]) return;
+        html += '<div class="tier-row"><h2>' + tier + '</h2><div class="tier-cards">';
+        grouped[tier].forEach(function(rk){
+          html += '<div class="rcard" onclick="openRank(\'' + rk.name + '\',\'' + tier + '\')">' +
+            '<img src="' + RAW + rk.file + '" loading="lazy">' +
+            '<div class="rname">' + rk.name.replace(/_/g,' ') + '</div></div>';
+        });
+        html += '</div></div>';
+      });
+      document.getElementById('tiers').innerHTML = html;
+    });
+
+  function openRank(name, tier){
+    var file = name + '.png';
+    var url = RAW + file;
+    document.getElementById('modalBox').innerHTML =
+      '<img src="' + url + '">' +
+      '<h3>' + name.replace(/_/g,' ') + '</h3>' +
+      '<div class="tier">' + tier + '</div>' +
+      '<div class="urlbox" id="urlbox">' + url + '</div>' +
+      '<button class="copybtn" onclick="copyUrl()">Copy URL</button>';
+    document.getElementById('modal').classList.add('show');
+  }
+  function copyUrl(){
+    var text = document.getElementById('urlbox').innerText;
+    navigator.clipboard.writeText(text).then(function(){
+      var b = document.querySelector('.copybtn');
+      b.innerText = 'Copied!'; setTimeout(function(){ b.innerText = 'Copy URL'; }, 1500);
+    });
+  }
+  function closeModal(){ document.getElementById('modal').classList.remove('show'); }
+  document.getElementById('modal').addEventListener('click', function(e){
+    if (e.target.id === 'modal') closeModal();
+  });
+</script>
+
+</body>
+</html>
