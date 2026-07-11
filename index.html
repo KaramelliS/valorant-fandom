@@ -99,6 +99,14 @@
   @keyframes spin { to { transform: rotate(360deg); } }
   .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 99; display: none; }
   .overlay.show { display: block; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+  .chip {
+    padding: 6px 14px; border: 1px solid var(--border); background: transparent;
+    color: var(--muted); border-radius: 999px; cursor: pointer; font-size: 0.8rem;
+    font-weight: 600; transition: all 0.2s; white-space: nowrap;
+  }
+  .chip:hover { border-color: var(--red); color: var(--text); }
+  .chip.active { background: var(--red); color: white; border-color: var(--red); }
 </style>
 </head>
 <body>
@@ -126,7 +134,7 @@
 <div class="overlay" id="overlay"></div>
 <div class="detail-panel" id="detail"></div>
 
-<script src="dist/valorant-fandom.min.js?v=2"></script>
+<script src="dist/valorant-fandom.min.js?v=3"></script>
 <script>
   var VF = ValorantFandom;
   var grid = document.getElementById('grid');
@@ -198,22 +206,48 @@
       var weapons = Object.keys(all);
       var total = 0;
       weapons.forEach(function(w) { total += all[w].length; });
+
+      window._vfSkins = all;
+      window._vfSkinWeapons = weapons;
+
       stats.innerHTML = '<div class="stat"><div class="stat-value">' + total + '</div><div class="stat-label">Skins</div></div>' +
         '<div class="stat"><div class="stat-value">' + weapons.length + '</div><div class="stat-label">Weapons</div></div>';
 
-      var html = '';
-      weapons.forEach(function(w) {
-        html += '<div style="grid-column:1/-1;margin-top:16px;margin-bottom:4px;font-weight:700;font-size:1rem;color:var(--red)">' + w + ' <span style="color:var(--muted);font-weight:400;font-size:0.8rem">(' + all[w].length + ' skins)</span></div>';
-        all[w].slice(0, 8).forEach(function(s) {
-          html += '<div class="card">' +
-            (s.image_url ? '<img src="' + s.image_url + '" alt="' + s.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px"></div>') +
-            '<h3 style="font-size:0.75rem">' + s.name + '</h3>' +
-          '</div>';
-        });
-      });
+      var chips = '<div class="chips" id="skinChips">' +
+        '<button class="chip active" data-w="all">All (' + total + ')</button>' +
+        weapons.map(function(w) { return '<button class="chip" data-w="' + w + '">' + w + ' (' + all[w].length + ')</button>'; }).join('') +
+        '</div>';
+
       grid.style.display = 'block';
-      grid.innerHTML = html;
+      grid.innerHTML = chips + '<div id="skinGrid" class="grid"></div>';
+      renderSkinGrid('all');
+
+      document.getElementById('skinChips').addEventListener('click', function(e) {
+        var btn = e.target.closest('.chip');
+        if (!btn) return;
+        document.querySelectorAll('#skinChips .chip').forEach(function(c) { c.classList.remove('active'); });
+        btn.classList.add('active');
+        renderSkinGrid(btn.dataset.w);
+      });
     });
+  }
+
+  function renderSkinGrid(filter) {
+    var all = window._vfSkins;
+    var list = [];
+    if (filter === 'all') {
+      Object.keys(all).forEach(function(w) { all[w].forEach(function(s) { list.push({ name: s.name, image_url: s.image_url, weapon: w }); }); });
+    } else {
+      all[filter].forEach(function(s) { list.push({ name: s.name, image_url: s.image_url, weapon: filter }); });
+    }
+    var gridEl = document.getElementById('skinGrid');
+    gridEl.innerHTML = list.map(function(s) {
+      return '<div class="card">' +
+        (s.image_url ? '<img src="' + s.image_url + '" alt="' + s.name + '" loading="lazy">' : '<div style="aspect-ratio:16/10;background:var(--bg);border-radius:4px;margin-bottom:8px"></div>') +
+        '<h3 style="font-size:0.75rem">' + s.name + '</h3>' +
+        '<div class="sub">' + s.weapon + '</div>' +
+      '</div>';
+    }).join('');
   }
 
   function showAgent(name) {
