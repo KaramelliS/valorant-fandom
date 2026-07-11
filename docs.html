@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valorant Fandom — Docs</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=JetBrains+Mono:wght@400;500&display=swap');
+  :root {
+    --bg: #0f1923; --bg2: #0a1118; --card: #1a242d; --text: #ecebe4;
+    --muted: #7b8a9b; --red: #ff4655; --red-dim: #bd3940; --red-glow: #ff465533;
+    --border: #2a3540; --radius: 4px; --mono: 'JetBrains Mono', monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6;
+  }
+  body::before {
+    content: ''; position: fixed; inset: 0; z-index: -1;
+    background:
+      radial-gradient(circle at 90% 10%, var(--red-glow), transparent 40%),
+      linear-gradient(180deg, var(--bg) 0%, var(--bg2) 100%);
+  }
+  /* Hero */
+  .hero {
+    border-bottom: 1px solid var(--border);
+    padding: 64px 32px 56px; max-width: 1100px; margin: 0 auto;
+    position: relative;
+  }
+  .hero .tag {
+    font-family: var(--mono); font-size: 0.75rem; color: var(--red);
+    letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px;
+  }
+  .hero h1 {
+    font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-weight: 700; line-height: 0.95; letter-spacing: -1px; text-transform: uppercase;
+  }
+  .hero h1 .accent { color: var(--red); }
+  .hero h1 .slash { color: var(--muted); font-weight: 500; }
+  .hero p { color: var(--muted); font-size: 1.05rem; margin-top: 20px; max-width: 560px; }
+  .hero-badges { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 24px; }
+  .badge {
+    font-family: var(--mono); font-size: 0.72rem; padding: 5px 12px;
+    border: 1px solid var(--border); border-radius: 999px; color: var(--muted);
+  }
+  .badge.live { border-color: var(--red); color: var(--red); }
+  .install-strip {
+    margin-top: 32px; background: var(--bg2); border: 1px solid var(--border);
+    border-left: 3px solid var(--red); padding: 14px 18px; font-family: var(--mono);
+    font-size: 0.82rem; color: var(--text); overflow-x: auto;
+  }
+  .install-strip .c { color: var(--muted); }
+  /* Layout */
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 48px 32px 80px; display: grid; grid-template-columns: 220px 1fr; gap: 48px; }
+  nav.side { position: sticky; top: 24px; align-self: start; }
+  nav.side h4 { font-family: var(--mono); font-size: 0.7rem; color: var(--red); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; }
+  nav.side a { display: block; color: var(--muted); text-decoration: none; font-size: 0.88rem; padding: 5px 0; border-left: 2px solid transparent; padding-left: 12px; transition: all 0.15s; }
+  nav.side a:hover { color: var(--text); border-color: var(--red); }
+  nav.side a.active { color: var(--red); border-color: var(--red); }
+  /* Sections */
+  section { margin-bottom: 56px; scroll-margin-top: 24px; }
+  section h2 {
+    font-family: 'Oswald', sans-serif; font-size: 1.6rem; text-transform: uppercase;
+    letter-spacing: 0.5px; margin-bottom: 8px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
+  }
+  section h2 .num { color: var(--red); font-family: var(--mono); font-size: 0.9rem; vertical-align: top; margin-right: 10px; }
+  section h3 { font-size: 1rem; color: var(--text); margin: 24px 0 10px; }
+  section p { color: var(--muted); margin-bottom: 12px; }
+  code { font-family: var(--mono); font-size: 0.85em; background: var(--bg2); color: var(--red); padding: 2px 6px; border-radius: 3px; }
+  pre {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px 18px; overflow-x: auto; margin: 12px 0;
+  }
+  pre code { background: none; color: var(--text); padding: 0; font-size: 0.82rem; line-height: 1.7; }
+  pre .k { color: var(--red); }
+  pre .s { color: #b8d4a0; }
+  pre .c { color: #5a6a7a; }
+  pre .n { color: #e0b341; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.88rem; }
+  th { text-align: left; padding: 10px 12px; border-bottom: 2px solid var(--red); color: var(--text); font-family: var(--mono); font-size: 0.78rem; text-transform: uppercase; }
+  td { padding: 9px 12px; border-bottom: 1px solid var(--border); color: var(--muted); }
+  td code { color: var(--text); }
+  .callout {
+    border-left: 3px solid var(--red); background: var(--card); padding: 14px 18px;
+    margin: 16px 0; font-size: 0.9rem;
+  }
+  .callout strong { color: var(--text); }
+  .modules { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 16px 0; }
+  .mod { border: 1px solid var(--border); padding: 14px; border-radius: var(--radius); }
+  .mod .ic { font-family: 'Oswald', sans-serif; font-size: 1.4rem; color: var(--red); }
+  .mod .nm { font-weight: 600; margin: 4px 0; }
+  .mod .ct { font-size: 0.78rem; color: var(--muted); font-family: var(--mono); }
+  .copybtn {
+    float: right; background: none; border: 1px solid var(--border); color: var(--muted);
+    font-family: var(--mono); font-size: 0.7rem; padding: 3px 8px; cursor: pointer; border-radius: 3px;
+  }
+  .copybtn:hover { color: var(--red); border-color: var(--red); }
+  footer { border-top: 1px solid var(--border); padding: 24px 32px; text-align: center; color: var(--muted); font-size: 0.8rem; max-width: 1100px; margin: 0 auto; }
+  footer a { color: var(--red); text-decoration: none; }
+  @media (max-width: 760px) {
+    .wrap { grid-template-columns: 1fr; gap: 24px; }
+    nav.side { position: static; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="tag">// JavaScript Library · v1.0.0</div>
+  <h1>VALORANT <span class="slash">//</span> <span class="accent">FANDOM</span></h1>
+  <p>Sunucusuz JS kutuphanesi. Valorant Fandom Wiki verilerini (ajanlar, silahlar, haritalar, ranklar, skinler) GitHub raw URL ile cek — PHP ya da backend gerekmez.</p>
+  <div class="hero-badges">
+    <span class="badge live">● LIVE</span>
+    <span class="badge">29 AGENTS</span>
+    <span class="badge">19 WEAPONS</span>
+    <span class="badge">12 MAPS</span>
+    <span class="badge">25 RANKS</span>
+    <span class="badge">1068 SKINS</span>
+    <span class="badge">UMD</span>
+    <span class="badge">MIT</span>
+  </div>
+  <div class="install-strip">
+    <span class="c">&lt;script src=</span><span>"https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js"</span><span class="c">&gt;&lt;/script&gt;</span>
+    <button class="copybtn" onclick="copyText(this,'https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js')">COPY</button>
+  </div>
+</div>
+
+<div class="wrap">
+  <nav class="side">
+    <h4>BASLANGIC</h4>
+    <a href="#intro" class="active">Genel Bakis</a>
+    <a href="#install">Kurulum</a>
+    <a href="#quickstart">Hizli Baslangic</a>
+    <h4>MODULLER</h4>
+    <a href="#agents">Agents</a>
+    <a href="#weapons">Weapons</a>
+    <a href="#maps">Maps</a>
+    <a href="#ranks">Ranks</a>
+    <a href="#skins">Skins</a>
+    <h4>REFERANS</h4>
+    <a href="#json">Direkt JSON</a>
+    <a href="#config">Konfigurasyon</a>
+  </nav>
+
+  <div>
+    <section id="intro">
+      <h2><span class="num">01</span>Genel Bakis</h2>
+      <p>Valorant Fandom, valorant.fandom.com'daki verileri duzenli JSON olarak sunan bir kutuphanedir. Tum veriler GitHub reposunda statik olarak host edilir — <strong>sunucu kurmaya, API key'e ya da rate limit'e gerek yok.</strong></p>
+      <div class="modules">
+        <div class="mod"><div class="ic">29</div><div class="nm">Agents</div><div class="ct">portre · yetenekler · rol</div></div>
+        <div class="mod"><div class="ic">19</div><div class="nm">Weapons</div><div class="ct">resim · stats · cost</div></div>
+        <div class="mod"><div class="ic">12</div><div class="nm">Maps</div><div class="ct">loading · lokasyon</div></div>
+        <div class="mod"><div class="ic">25</div><div class="nm">Ranks</div><div class="ct">Iron → Radiant</div></div>
+        <div class="mod"><div class="ic">1068</div><div class="nm">Skins</div><div class="ct">19 silah</div></div>
+      </div>
+    </section>
+
+    <section id="install">
+      <h2><span class="num">02</span>Kurulum</h2>
+      <p>Build adımı yok. Tek satirlik script tag ile calisir.</p>
+      <h3>HTML script tag</h3>
+      <pre><code><span class="c">&lt;!-- Global olarak ValorantFandom objesini olusturur --&gt;</span>
+&lt;script src=<span class="s">"https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/dist/valorant-fandom.min.js"</span>&gt;&lt;/script&gt;</code></pre>
+      <h3>npm / CommonJS</h3>
+      <pre><code><span class="k">const</span> VF = <span class="k">require</span>(<span class="s">'./dist/valorant-fandom.js'</span>);
+VF.getAgents().then(agents =&gt; console.log(agents));</code></pre>
+    </section>
+
+    <section id="quickstart">
+      <h2><span class="num">03</span>Hizli Baslangic</h2>
+      <pre><code><span class="c">// Tum ajanlari cek</span>
+ValorantFandom.<span class="k">getAgents</span>().then(<span class="k">function</span>(agents) {
+  console.log(agents.length); <span class="c">// 29</span>
+  console.log(agents[<span class="n">0</span>].name); <span class="c">// "Astra"</span>
+});
+
+<span class="c">// Tek rank</span>
+ValorantFandom.<span class="k">getRank</span>(<span class="s">'Gold 2'</span>).then(<span class="k">function</span>(r) {
+  console.log(r.image_url); <span class="c">// raw URL</span>
+});</code></pre>
+      <div class="callout">
+        <strong>Cache:</strong> Ayni istek ikinci kez cekilmez, memory'de tutulur. <code>clearCache()</code> ile sifirlanir.
+      </div>
+    </section>
+
+    <section id="agents">
+      <h2><span class="num">04</span>Agents</h2>
+      <p>29 ajan: portre, bust ikon, rol ikonu, yetenekler (ikon + slot), origin, patch.</p>
+      <table>
+        <tr><th>Metod</th><th>Donus</th></tr>
+        <tr><td><code>getAgents()</code></td><td>Tum ajanlar (29)</td></tr>
+        <tr><td><code>getAgent('Jett')</code></td><td>Tek ajan objesi</td></tr>
+        <tr><td><code>getAgentsByRole('Duelist')</code></td><td>Role gore filtrelenmis liste</td></tr>
+      </table>
+      <pre><code>ValorantFandom.<span class="k">getAgent</span>(<span class="s">'Sage'</span>).then(<span class="k">function</span>(a) {
+  console.log(a.role);            <span class="c">// "Sentinel"</span>
+  console.log(a.abilities.length); <span class="c">// 4</span>
+  console.log(a.full_portrait_url);
+});</code></pre>
+    </section>
+
+    <section id="weapons">
+      <h2><span class="num">05</span>Weapons</h2>
+      <p>19 silah: render resmi, killfeed ikonu, cost, stats (fire rate, magazine, reload, penetration).</p>
+      <table>
+        <tr><th>Metod</th><th>Donus</th></tr>
+        <tr><td><code>getWeapons()</code></td><td>Tum silahlar (19)</td></tr>
+        <tr><td><code>getWeapon('Vandal')</code></td><td>Tek silah objesi</td></tr>
+        <tr><td><code>getWeaponsByCategory('Rifle')</code></td><td>Kategoriye gore filtre</td></tr>
+      </table>
+    </section>
+
+    <section id="maps">
+      <h2><span class="num">06</span>Maps</h2>
+      <p>12 harita: loading screen resmi, lokasyon, cikis patchi.</p>
+      <table>
+        <tr><th>Metod</th><th>Donus</th></tr>
+        <tr><td><code>getMaps()</code></td><td>Tum haritalar (12)</td></tr>
+        <tr><td><code>getMap('Ascent')</code></td><td>Tek harita objesi</td></tr>
+      </table>
+    </section>
+
+    <section id="ranks">
+      <h2><span class="num">07</span>Ranks</h2>
+      <p>25 rank ikonu (Iron → Radiant). Her rankin <code>image_url</code>'i GitHub raw olarak gelir — wikia CDN engellemesine takilmaz.</p>
+      <table>
+        <tr><th>Metod</th><th>Donus</th></tr>
+        <tr><td><code>getRanks()</code></td><td>Tum ranklar (25)</td></tr>
+        <tr><td><code>getRanks('Gold')</code></td><td>Gold 1/2/3</td></tr>
+        <tr><td><code>getRank('Gold 2')</code></td><td>Tek rank (isim veya dosya adi)</td></tr>
+      </table>
+      <pre><code>ValorantFandom.<span class="k">getRanks</span>(<span class="s">'Diamond'</span>).then(<span class="k">function</span>(ranks) {
+  ranks.forEach(<span class="k">function</span>(r) {
+    img.src = r.image_url; <span class="c">// raw.githubusercontent.com/...</span>
+  });
+});</code></pre>
+      <div class="callout">
+        <strong>Direkt ikon:</strong> <code>https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/ranks/Gold_2.png</code>
+      </div>
+    </section>
+
+    <section id="skins">
+      <h2><span class="num">08</span>Skins</h2>
+      <p>1068 skin, 19 silaha ait. <code>getSkins()</code> tumunu, silah adi verilince o silahin skinlerini doner.</p>
+      <pre><code><span class="c">// Tum skinler</span>
+ValorantFandom.<span class="k">getSkins</span>().then(<span class="k">function</span>(all) {
+  console.log(Object.keys(all)); <span class="c">// ["Classic","Vandal",...]</span>
+});
+
+<span class="c">// Sadece Vandal skinleri</span>
+ValorantFandom.<span class="k">getSkins</span>(<span class="s">'Vandal'</span>).then(<span class="k">function</span>(skins) {
+  console.log(skins.length); <span class="c">// 96</span>
+});</code></pre>
+    </section>
+
+    <section id="json">
+      <h2><span class="num">09</span>Direkt JSON</h2>
+      <p>Kutuphaneyi kullanmadan, herhangi bir dille JSON'lari cek:</p>
+      <pre><code>https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/agents.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/weapons.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/maps.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/ranks.json
+https://raw.githubusercontent.com/KaramelliS/valorant-fandom/master/data/skins.json</code></pre>
+    </section>
+
+    <section id="config">
+      <h2><span class="num">10</span>Konfigurasyon</h2>
+      <table>
+        <tr><th>Metod</th><th>Aciklama</th></tr>
+        <tr><td><code>setBaseUrl(url)</code></td><td>Kendi JSON endpoint'ini kullan (self-host)</td></tr>
+        <tr><td><code>clearCache()</code></td><td>Tum cachelenmis veriyi sil</td></tr>
+        <tr><td><code>version()</code></td><td>Kutuphane versiyonu</td></tr>
+      </table>
+      <pre><code><span class="c">// Kendi sunucunu kullan</span>
+ValorantFandom.<span class="k">setBaseUrl</span>(<span class="s">'https://benim-site.com/valorant-data'</span>);
+ValorantFandom.<span class="k">getAgents</span>(); <span class="c">// artik senin URL'inden ceker</span></code></pre>
+    </section>
+  </div>
+</div>
+
+<footer>
+  Valorant Fandom · Veriler <a href="https://valorant.fandom.com">valorant.fandom.com</a>'dan uretilmistir · <a href="https://github.com/KaramelliS/valorant-fandom">GitHub</a> · MIT
+</footer>
+
+<script>
+  function copyText(btn, text) {
+    navigator.clipboard.writeText(text).then(function() {
+      var o = btn.innerText; btn.innerText = 'COPIED';
+      setTimeout(function() { btn.innerText = o; }, 1200);
+    });
+  }
+  // Active nav highlight on scroll
+  var links = document.querySelectorAll('nav.side a');
+  var sections = document.querySelectorAll('section');
+  window.addEventListener('scroll', function() {
+    var y = window.scrollY + 60;
+    sections.forEach(function(s) {
+      if (y >= s.offsetTop && y < s.offsetTop + s.offsetHeight) {
+        links.forEach(function(l) { l.classList.remove('active'); });
+        var a = document.querySelector('nav.side a[href="#' + s.id + '"]');
+        if (a) a.classList.add('active');
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
