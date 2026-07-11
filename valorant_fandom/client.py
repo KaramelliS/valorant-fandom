@@ -321,6 +321,8 @@ class ValorantClient:
                     weapon.cost = wdata["cost"]
                     weapon.stats = wdata["stats"]
                     weapon.killfeed_icon_url = wdata.get("killfeed_icon_url")
+                    if wdata.get("image_url"):
+                        weapon.image_url = wdata["image_url"]
 
                 all_weapons.append(weapon)
 
@@ -363,6 +365,27 @@ class ValorantClient:
                 if src and "base64" not in src:
                     killfeed_icon_url = src
 
+        # Main weapon render image (fallback when pageimages API has no thumbnail)
+        image_url = None
+        if aside:
+            main_img = aside.select_one(".pi-image-thumbnail")
+            if main_img:
+                src = main_img.get("data-src") or main_img.get("src") or ""
+                if src and "base64" not in src:
+                    image_url = src
+            if not image_url:
+                for img in aside.select("img"):
+                    src = img.get("data-src") or img.get("src") or ""
+                    if (src and "base64" not in src
+                            and title.lower() in src.lower()
+                            and "icon" not in src.lower()
+                            and "killfeed" not in src.lower()
+                            and "_comparison" not in src.lower()):
+                        image_url = src
+                        break
+            if image_url:
+                image_url = self._resolve_image_url(image_url, 500)
+
         desc_el = soup.select_one("aside ~ p")
         description = desc_el.get_text(strip=True) if desc_el else ""
 
@@ -371,6 +394,7 @@ class ValorantClient:
             "cost": cost,
             "stats": stats,
             "killfeed_icon_url": killfeed_icon_url,
+            "image_url": image_url,
         }
 
     def get_weapon_skins(self, weapon_name: str) -> list[WeaponSkin]:
@@ -391,20 +415,22 @@ class ValorantClient:
         if not file_titles:
             return []
 
-        image_data = self._api_get({
-            "action": "query",
-            "prop": "imageinfo",
-            "titles": "|".join(file_titles),
-            "iiprop": "url",
-            "iiurlwidth": 300,
-        })
-
-        pages = image_data.get("query", {}).get("pages", {})
+        # MediaWiki limits titles to 50 per query — batch to avoid failures
         url_map = {}
-        for pid, page_data in pages.items():
-            ii = page_data.get("imageinfo", [])
-            if ii:
-                url_map[page_data["title"]] = ii[0].get("thumburl") or ii[0].get("url", "")
+        for i in range(0, len(file_titles), 50):
+            batch = file_titles[i:i + 50]
+            image_data = self._api_get({
+                "action": "query",
+                "prop": "imageinfo",
+                "titles": "|".join(batch),
+                "iiprop": "url",
+                "iiurlwidth": 300,
+            })
+            pages = image_data.get("query", {}).get("pages", {})
+            for pid, page_data in pages.items():
+                ii = page_data.get("imageinfo", [])
+                if ii:
+                    url_map[page_data["title"]] = ii[0].get("thumburl") or ii[0].get("url", "")
 
         skins = []
         for ftitle in file_titles:
@@ -466,6 +492,8 @@ class ValorantClient:
                 m.description = mdata["description"]
                 m.location = mdata.get("location", "")
                 m.release_patch = mdata.get("patch", "")
+                if not m.image_url and mdata.get("image_url"):
+                    m.image_url = mdata["image_url"]
 
             maps.append(m)
 
@@ -491,8 +519,26 @@ class ValorantClient:
         desc_el = soup.select_one("aside ~ p")
         description = desc_el.get_text(strip=True) if desc_el else ""
 
+        # Main map loading screen image (fallback when pageimages API has no thumbnail)
+        image_url = None
+        if aside:
+            main_img = aside.select_one(".pi-image-thumbnail")
+            if main_img:
+                src = main_img.get("data-src") or main_img.get("src") or ""
+                if src and "base64" not in src:
+                    image_url = src
+            if not image_url:
+                for img in aside.select("img"):
+                    src = img.get("data-src") or img.get("src") or ""
+                    if src and "base64" not in src and "Loading_Screen" in src:
+                        image_url = src
+                        break
+            if image_url:
+                image_url = self._resolve_image_url(image_url, 500)
+
         return {
             "description": description,
+            "image_url": image_url,
             "location": _get_data_value("location"),
             "patch": _get_data_value("patch") or _get_data_value("added"),
             "coordinates": _get_data_value("coordinates"),

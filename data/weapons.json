@@ -157,7 +157,7 @@
     "category": "Shotgun",
     "description": "",
     "cost": "850",
-    "image_url": "https://static.wikia.nocookie.net/valorant/images/a/ac/Aemondir_Bucky.png/revision/latest/scale-to-width-down/500?cb=20240621121556",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/e/eb/Bucky.png/revision/latest/scale-to-width-down/500?cb=20230711205254",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/7/7d/Bucky_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "1.1 rounds/sec",
@@ -214,7 +214,7 @@
     "category": "Rifle",
     "description": "",
     "cost": "2,250",
-    "image_url": null,
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/fd/Guardian.png/revision/latest/scale-to-width-down/500?cb=20230711205258",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/5/59/Guardian_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "5.25 rounds/sec 324 RPM",
@@ -233,7 +233,7 @@
     "category": "Rifle",
     "description": "",
     "cost": "2,900",
-    "image_url": "https://static.wikia.nocookie.net/valorant/images/2/24/Phantom_Comparison.png/revision/latest/scale-to-width-down/500?cb=20220329073747",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/e/ec/Phantom.png/revision/latest/scale-to-width-down/500?cb=20230711205302",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/8/84/Phantom_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "11 rounds/sec 660 RPM",
@@ -271,7 +271,7 @@
     "category": "Machine Gun",
     "description": "",
     "cost": "1,600",
-    "image_url": null,
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/0/05/Ares.png/revision/latest/scale-to-width-down/500?cb=20230711205253",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Ares_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "13 rounds/sec",
@@ -309,7 +309,7 @@
     "category": "Sniper",
     "description": "",
     "cost": "950",
-    "image_url": null,
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b9/Marshal.png/revision/latest/scale-to-width-down/500?cb=20230711205300",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/1/14/Marshal_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "1.5 rounds/sec",
@@ -328,7 +328,7 @@
     "category": "Sniper",
     "description": "",
     "cost": "4,700",
-    "image_url": null,
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/17/Operator.png/revision/latest/scale-to-width-down/500?cb=20230711205302",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Operator_killfeed.png/revision/latest/scale-to-width-down/50?cb=20210613223623",
     "stats": {
       "fire_rate": "0.6 rounds/sec",
@@ -347,7 +347,7 @@
     "category": "Sniper",
     "description": "",
     "cost": "2,400",
-    "image_url": null,
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f0/Outlaw.png/revision/latest/scale-to-width-down/500?cb=20240109154332",
     "killfeed_icon_url": "https://static.wikia.nocookie.net/valorant/images/d/d5/Outlaw_killfeed.png/revision/latest/scale-to-width-down/50?cb=20240109202902",
     "stats": {
       "fire_rate": "2.75 rounds/sec",
