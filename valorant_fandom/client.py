@@ -458,7 +458,7 @@ class ValorantClient:
         })
 
         members = data.get("query", {}).get("categorymembers", [])
-        skip_titles = {"Maps", "Range"}
+        skip_titles = {"Maps", "Range", "Summit"}
         map_names = [
             m["title"] for m in members
             if m["ns"] == 0 and m["title"] not in skip_titles
